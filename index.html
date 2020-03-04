@@ -16,7 +16,7 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
 <div class="container-fluid">
-<a class="navbar-brand" href="#"><img src="img/logo.png"></a>  <!-- Logo -->
+<a class="navbar-brand" href="index.html"><img src="img/logo.png"></a>  <!-- Logo -->
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"><!-- burger style button -->
 <span class="navbar-toggler-icon"></span> <!-- Draws navbar icon in the middle -->
 </button>
@@ -38,14 +38,15 @@
 </div>
 </nav>
 <!--- Image Slider -->
-<div id="slides" class="carousel slide" data-ride="carousel">
+<div id="slides" class="carousel slide" data-ride="carousel" data-interval="7000">
+	<ol class="carousel-indicators">
 	<ul class="carousel-indicators">
 <li data-target="#slides" data-slide-to="0" class="active"></li>
 <li data-target="#slides" data-slide-to="1"></li>
 <li data-target="#slides" data-slide-to="2"></li>
 <li data-target="#slides" data-slide-to="3"></li>
-</ul>
-<div class ="carousel-inner"> <!--- Carousel 1 -->
+</ul></ol>
+<div class ="carousel-inner" role="listbox"> <!--- Carousel 1 -->
 	<div class="carousel-item active">
 <img src="img/house.jpg">
 <div class="carousel-caption">
@@ -83,8 +84,14 @@
 	</div>
 	</div>
 
-<!--- Jumbotron -->
+<!--- Arrow buttons -->
+<a class="carousel-control-prev" href="#slides" role="button" data-slide="prev">
+	<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+</a>
 
+<a class="carousel-control-next" href="#slides" role="button" data-slide="next">
+	<span class="carousel-control-next-icon" aria-hidden="true"></span>
+</a>
 
 <!--- Welcome Section -->
 <div class="container-fluid padding">
@@ -102,17 +109,17 @@
 <div class="container-fluid padding">
 	<div class="row text-center padding">
 <div class="col-xs-12 col-sm-6 col-md-4">
-	<i class="fas fa-code"></i>
+	<i class="fa fa-window-restore"></i>
 	<h3>Mirror Room</h3>
 	<p>This is escape room 1</p>
 </div>
 <div class="col-xs-12 col-sm-6 col-md-4">
-	<i class="fas fa-bold"></i>
+	<i class="fa fa-plus"></i>
 	<h3>Mental Hospital</h3>
 	<p>This is escape room 2</p>
 </div>
 <div class="col-sm-12 col-md-4">
-	<i class="fab fa-css3"></i>
+	<i class="fa fa-circle-thin"></i>
 	<h3>White Room</h3>
 	<p>This is escape room 3</p>
 </div>

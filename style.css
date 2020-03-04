@@ -24,6 +24,14 @@ html, body{
   height: 100%;
   width:100%;
 }
+.carousel-control-prev{
+  weight: 100%;
+  height: 150%;
+}
+.carousel-control-next{
+  weight: 100%;
+  height: 150%;
+}
 .carousel-caption{
   position: absolute;
   top: 60%;
@@ -64,16 +72,16 @@ width: 95%;
 margin-top: .3rem;
 margin-bottom: 1rem;
 }
-.fa-code{
+.fa-window-restore{
   color: #e54d26;
 }
-.fa-bold{
+.fa-plus{
   color: #563d7c;
 }
-.fa-css3{
+.fa-circle-thin{
   color: #2163af;
 }
-.fa-code, .fa-bold, .fa-css3{
+.fa-window-restore, .fa-plus, .fa-circle-thin{
   font-size: 4em;
   margin: 1rem;
 }
