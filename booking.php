@@ -7,13 +7,55 @@
 
 <?php include 'includes/navbar.php'; ?>
 
-<!--- Extra space for header -->
-<div class="row mt-5">
-  <div class="col-12 text-center mt-5">
-    <h3>Booking</h3>
-  </div>
+<!--- Meet the rooms -->
+<div class="container-fluid padding">
+	<div class="row welcome text-center">
+<div class="col-12">
+	<h1 class="display-4">Choose A Room To Book</h1>
+</div>
+<hr>
+</div>
 </div>
 
+<!--- Cards -->
+<div class="container-fluid padding">
+	<div class="row padding">
+		<div class="col-md-4">
+<div class"card">
+	<img class="card-img-top" src="img/mirrors2.jpg">
+	<div class="card-body">
+		<h4 class="card-title">Mirror Room</h4>
+
+		<a href="calendar.php" class="btn btn-outline-secondary">Book</a>
+		</div>
+	</div>
+</div>
+
+<div class="col-md-4">
+<div class"card">
+<img class="card-img-top" src="img/mentalHospital2.jpg">
+<div class="card-body">
+<h4 class="card-title">Mental Room</h4>
+
+<a href="calendar2.php" class="btn btn-outline-secondary">Book</a>
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class"card">
+<img class="card-img-top" src="img/whiteRoom2.jpg">
+<div class="card-body">
+<h4 class="card-title">White Room</h4>
+
+<a href="calendar3.php" class="btn btn-outline-secondary">Book</a>
+</div>
+</div>
+</div>
+
+</div>
+<hr class="my-4">  <!--- TCreates the long line -->
+</div>
 
 <?php include 'includes/footer.php' ?>
 

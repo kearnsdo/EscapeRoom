@@ -43,7 +43,7 @@
 <hr class="my-4">
 </div>
 
-<!--- Meet the team -->
+<!--- Meet the rooms -->
 <div class="container-fluid padding">
 	<div class="row welcome text-center">
 <div class="col-12">
