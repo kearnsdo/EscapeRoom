@@ -4,6 +4,8 @@
 <?php include 'includes/head.php'; ?>
 </head>
 <body>
+<!--- TEST Slider -->
+
 
 <?php include 'includes/navbar.php'; ?>
 <!--- Image Slider -->
