@@ -57,7 +57,7 @@
 <hr class="my-4">  <!--- TCreates the long line -->
 </div>
 
-<?php include 'includes/footer.php' ?>
+
 
 </body>
 </html>
