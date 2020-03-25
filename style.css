@@ -11,7 +11,7 @@ html, body{
 /*Navigation*/
 
 .nav-link{
-  font-size: 200%;
+  font-size: 35px;
 }
 .menu-info{
 text-align: center;
@@ -57,10 +57,7 @@ transform: rotate(0deg);
 -o-transition: .25s ease-in-out;
 transition: .25s ease-in-out;
 }
-.navbar-light{
-background-color:  white;
-fill: white;
-}
+
 .animated-icon1 span {
 background: black;
 }
@@ -100,10 +97,10 @@ transform: rotate(-135deg);
   padding: .8rem;
 }
 .navbar-nav li{
-  padding-right: 20px;
+  padding-left: 20px;
 }
 .nav-link{
-  font-size: 1.1em !important;
+  font-size: 2.1em !important;
 } */
 /*Carousel*/
 .carousel-inner img{
@@ -194,19 +191,19 @@ margin-bottom: 1rem;
 .fa-facebook{
   color: #3b5998;
 }
-.fa-twitter{
+.fa-linkedin{
   color: #00aced;
 }
 .fa-instagram{
   color: #517fa4;
 }
-.fa-youtube{
-  color: #bb0000
+.fa-tripadvisor{
+  color: #00AF87
 }
 .fa-facebook:hover,
-.fa-twitter:hover,
+.fa-linkedin:hover,
 .fa-instagram:hover,
-.fa-youtube:hover{
+.fa-tripadvisor:hover{
   color: #d5d5d5;
 }
 

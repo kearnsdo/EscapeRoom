@@ -38,8 +38,9 @@
 
 <div class="col-12 social2 padding">
 	<a href="facebook.com/example/"><i class="fab fa-facebook"></i></a>
-			<a href="facebook.com/example/"><i class="fab fa-twitter"></i></a>
-
+							<a href="facebook.com/example/"><i class="fab fa-instagram"></i></a>
+							<a href="facebook.com/example/"><i class="fab fa-linkedin"></i></a>
+									<a href="facebook.com/example/"><i class="fab fa-tripadvisor"></i></a>
 	</div>
 </div>
 </div>
