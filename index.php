@@ -2,6 +2,9 @@
 <html lang="en">
 <head>
 <?php include 'includes/head.php'; ?>
+  <meta name="description" content="Looking for a fun activity? Are you adventurous, you have nerves of steel and a knack for solving riddles? Check out our 3 Meabhrach Escape Rooms!">
+  <meta name="keywords" content="activity, fun, Meabhrach Escape Rooms, Escape Room, Dublin ">
+  <meta name="author" content="Group 2">
 </head>
 <body>
 

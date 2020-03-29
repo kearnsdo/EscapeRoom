@@ -2,6 +2,9 @@
 <html lang="en">
 	<head>
 		<?php include 'includes/head.php'; ?>
+		<meta name="description" content="Not sure how to get to Meabhrach Escape Rooms? Here you can find directions, a link to Google Maps and a video on how to get to our location from the nearest Luas stop">
+		<meta name="keywords" content="public transport, bus, Luas, Meabhrach Escape Rooms, Escape Room, Dublin">
+		<meta name="author" content="Group 2">
 	</head>
 	<body>
 	<?php include 'includes/navbar.php'; ?>

@@ -2,6 +2,10 @@
 <html lang="en">
 <head>
 <?php include 'includes/head.php'; ?>
+  <meta name="description" content="Choose the room you want to escape from, the date and time you want to visit us and book right here on our website!">
+  <meta name="keywords" content="calendar, booking, date, time, Meabhrach Escape Rooms, Escape Room, Dublin ">
+  <meta name="author" content="Group 2">
+
 </head>
 <body>
 

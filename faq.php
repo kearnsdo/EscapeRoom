@@ -3,6 +3,11 @@
 <html lang="en">
 <head>
 	<?php include 'includes/head.php'; ?>
+	
+	<meta name="description" content="Still not sure of this is the activity for you? On this page you will find the answers to the most common questions.">
+	<meta name="keywords" content="FAQ, questions, answers, Meabhrach Escape Rooms, Escape Room, Dublin ">
+	<meta name="author" content="Group 2">
+	
 
 	<!-- ion Icons -->
 	<link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
