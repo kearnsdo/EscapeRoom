@@ -6,7 +6,11 @@ if(isset($_GET['date'])){
 if(isset($_POST['submit'])){
     $name = $_POST['name'];
     $email = $_POST['email'];
+<<<<<<< HEAD
     $mysqli = new mysqli('mysql.scss.tcd.ie', 'koshkine', 'Nuziev7G', 'koshkine_db');
+=======
+    $mysqli = new mysqli('localhost', 'root', '', 'calendar');
+>>>>>>> 58c2c0ec7553e2f825c2aa69c7b43c20a2dbf0eb
     $stmt = $mysqli->prepare("INSERT INTO bookings (name, email, date) VALUES (?,?,?)");
     $stmt->bind_param('sss', $name, $email, $date);
     $stmt->execute();
@@ -46,7 +50,11 @@ if(isset($_POST['submit'])){
                         <input type="email" class="form-control" name="email">
                     </div>
                     <button class="btn btn-primary" type="submit" name="submit">Submit</button>
+<<<<<<< HEAD
                     
+=======
+                      <button onclick="goBack()">Go Back</button>
+>>>>>>> 58c2c0ec7553e2f825c2aa69c7b43c20a2dbf0eb
                 </form>
             </div>
         </div>
