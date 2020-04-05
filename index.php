@@ -12,12 +12,12 @@
 <!--- Image Slider -->
 <div id="slides" class="carousel slide" data-ride="carousel" data-interval="7000">
 	<ol class="carousel-indicators">
-	<ul class="carousel-indicators">
-<li data-target="#slides" data-slide-to="0" class="active"></li>
+
+<li data-target="#slides" data-slide-to="0"></li>
 <li data-target="#slides" data-slide-to="1"></li>
 <li data-target="#slides" data-slide-to="2"></li>
 <li data-target="#slides" data-slide-to="3"></li>
-</ul></ol>
+</ol>
 <div class ="carousel-inner" role="listbox"> <!--- Carousel 1 -->
 	<div class="carousel-item active">
 <img src="img/house.jpg">
