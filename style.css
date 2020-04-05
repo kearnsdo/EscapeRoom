@@ -1,0 +1,486 @@
+/*Google import font*/
+  @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+
+html, body{
+  height: 100%;
+  width: 100%;
+  font-family: 'Poppins', sans-serif;
+  color: #222;
+}
+/*Navigation*/
+.first-button{
+     border: none;
+     background-color: #ffffff;
+}
+button:focus {
+  outline:0;
+}
+.nav-link{
+  font-size: 25px;
+}
+.menu-info{
+text-align: center;
+}
+.menu-right{
+  position: absolute;
+  right: 20%;
+}
+.nav-item{
+position: relative;
+  left: 20%;
+}
+.animated-icon1 {
+  background-color: white;
+     border: none;
+width: 30px;
+height: 20px;
+
+position: relative;
+margin: 0px;
+-webkit-transform: rotate(0deg);
+-moz-transform: rotate(0deg);
+-o-transform: rotate(0deg);
+transform: rotate(0deg);
+-webkit-transition: .5s ease-in-out;
+-moz-transition: .5s ease-in-out;
+-o-transition: .5s ease-in-out;
+transition: .5s ease-in-out;
+cursor: pointer;
+}
+
+.animated-icon1 span {
+display: block;
+position: absolute;
+height: 3px;
+width: 100%;
+border-radius: 9px;
+opacity: 1;
+left: 0;
+-webkit-transform: rotate(0deg);
+-moz-transform: rotate(0deg);
+-o-transform: rotate(0deg);
+transform: rotate(0deg);
+-webkit-transition: .25s ease-in-out;
+-moz-transition: .25s ease-in-out;
+-o-transition: .25s ease-in-out;
+transition: .25s ease-in-out;
+}
+
+.animated-icon1 span {
+background: black;
+}
+.animated-icon1 span:nth-child(1) {
+top: 0px;
+}
+
+.animated-icon1 span:nth-child(2) {
+top: 10px;
+}
+
+.animated-icon1 span:nth-child(3) {
+top: 20px;
+}
+
+.animated-icon1.open span:nth-child(1) {
+top: 11px;
+-webkit-transform: rotate(135deg);
+-moz-transform: rotate(135deg);
+-o-transform: rotate(135deg);
+transform: rotate(135deg);
+}
+
+.animated-icon1.open span:nth-child(2) {
+opacity: 0;
+left: -60px;
+}
+
+.animated-icon1.open span:nth-child(3) {
+top: 11px;
+-webkit-transform: rotate(-135deg);
+-moz-transform: rotate(-135deg);
+-o-transform: rotate(-135deg);
+transform: rotate(-135deg);
+}
+/* .navbar{
+  padding: .8rem;
+}
+.navbar-nav li{
+  padding-left: 20px;
+}
+.nav-link{
+  font-size: 2.1em !important;
+} */
+/*Carousel*/
+.carousel-inner img{
+  weight: 100%;
+  height: 150%;
+  width:100%;
+}
+.carousel-control-prev{
+  weight: 100%;
+  height: 150%;
+}
+.carousel-control-next{
+  weight: 100%;
+  height: 150%;
+}
+.carousel-caption{
+  position: absolute;
+  top: 60%;
+  transform: translateY(-50%);
+}
+.carousel-caption h1{
+  font-size: 400%;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 15px #000;
+}
+.Carousel-caption h3{
+  font-size: 200%;
+  font-weight: 500;
+  text-shadow: 1px 1px 10px #000;
+  padding-bottom: 1rem;
+}
+  .btn-primary{
+    /* background-color: #;
+    border: 1px solid #; */
+  }
+  .btn-primary: hover{
+    /* background-color: #;
+    border: 1px solid #; */
+  }
+
+/*Welcome Section*/
+.padding{
+  padding-bottom: 2rem;
+}
+.welcome{
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+.welcome hr{
+border-top: 2px solid #b4b4b4;
+width: 95%;
+margin-top: .3rem;
+margin-bottom: 1rem;
+}
+.fa-window-restore{
+  color: #e54d26;
+}
+.fa-plus{
+  color: #563d7c;
+}
+.fa-circle-thin{
+  color: #2163af;
+}
+.fa-window-restore, .fa-plus, .fa-circle-thin{
+  font-size: 4em;
+  margin: 1rem;
+}
+
+/*Riddle section */
+.fun{
+  width: 100%;
+  margin-bottom: 2rem;
+}
+.gif{
+  max-width: 100%;
+}
+
+.social a{
+  font-size: 4.5em;
+  padding: 3rem;
+}
+
+.social2 a{
+  font-size: 2em;
+  padding: 2rem;
+}
+.fa-facebook{
+  color: #3b5998;
+}
+.fa-linkedin{
+  color: #00aced;
+}
+.fa-instagram{
+  color: #517fa4;
+}
+.fa-tripadvisor{
+  color: #00AF87
+}
+.fa-facebook:hover,
+.fa-linkedin:hover,
+.fa-instagram:hover,
+.fa-tripadvisor:hover{
+  color: #d5d5d5;
+}
+
+footer{
+  background-color: #3f3f3f;
+  color: #d5d5d5;
+  padding-top: 2rem;
+  width:100%;
+}
+hr.light{
+  border-top: 1px solid #d5d5d5;
+  width:75%;
+  margin-top: .8rem;
+  margin-bottom: 1rem;
+}
+footer a{
+  color: #d5d5d5;
+}
+hr.light-100{
+  border-top: 1px solid #d5d5d5;
+  width:100%;
+  margin-top: .8rem;
+  margin-bottom: 1rem;
+}
+
+
+/*---Media Queries --*/
+@media (max-width: 992px) {
+.social a {
+  font-size: 4em;
+  padding: 2rem;
+}
+  }
+@media (max-width: 768px) {
+  .carousel-caption{
+    top: 45%;
+  }
+  .carousel-caption h1{
+    font-size: 350%;
+  }
+  .Carousel-caption h3{
+    font-size: 140%;
+    font-weight: 400;
+    padding-bottom: .2rem;
+  }
+  .carousel-caption .btn{
+    font-size: 95%;
+    padding-bottom: 8px 14px;
+  }
+  .display-4{
+    font-size: 200%;
+  }
+  .social a {
+    font-size: 2.5em;
+    padding: 1.2rem;
+  }
+}
+@media (max-width: 576px) {
+  .carousel-caption{
+    top: 40%;
+  }
+  .carousel-caption h1{
+    font-size: 250%;
+  }
+  .Carousel-caption h3{
+    font-size: 110%;
+  }
+  .carousel-caption .btn{
+    font-size: 90%;
+    padding-bottom: 4px 8px;
+  }
+  .carousel-indicators{
+    display: none;
+  }
+  .display-4{
+    font-size: 160%;
+  }
+  .social a {
+    font-size: 2em;
+    padding: .7rem;
+  }
+}
+
+
+/*---Firefox Bug Fix --*/
+.carousel-item {
+  transition: -webkit-transform 0.5s ease;
+  transition: transform 0.5s ease;
+  transition: transform 0.5s ease, -webkit-transform 0.5s ease;
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
+}
+/*--- Fixed Background Image --*/
+figure {
+  position: relative;
+  width: 100%;
+  height: 60%;
+  margin: 0!important;
+}
+.fixed-wrap {
+  clip: rect(0, auto, auto, 0);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+#fixed {
+  background-image: url('img/mac.png');
+  position: fixed;
+  display: block;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+  -webkit-transform: translateZ(0);
+          transform: translateZ(0);
+  will-change: transform;
+}
+/*--- Bootstrap Padding Fix --*/
+[class*="col-"] {
+    padding: 1rem;
+}
+
+/*--- Booking calendar --*/
+@media only screen and (max-width: 760px),
+ (min-device-width: 802px) and (max-device-width: 1020px) {
+
+     /* Force table to not be like tables anymore */
+     table, thead, tbody, th, td, tr {
+         display: block;
+
+     }
+
+
+
+     .empty {
+         display: none;
+     }
+
+     /* Hide table headers (but not display: none;, for accessibility) */
+     th {
+         position: absolute;
+         top: -9999px;
+         left: -9999px;
+     }
+
+     tr {
+         border: 1px solid #ccc;
+     }
+
+     td {
+         /* Behave  like a "row" */
+         border: none;
+         border-bottom: 1px solid #eee;
+         position: relative;
+         padding-left: 50%;
+     }
+
+
+
+     /*
+Label the data
+*/
+     td:nth-of-type(1):before {
+         content: "Sunday";
+     }
+     td:nth-of-type(2):before {
+         content: "Monday";
+     }
+     td:nth-of-type(3):before {
+         content: "Tuesday";
+     }
+     td:nth-of-type(4):before {
+         content: "Wednesday";
+     }
+     td:nth-of-type(5):before {
+         content: "Thursday";
+     }
+     td:nth-of-type(6):before {
+         content: "Friday";
+     }
+     td:nth-of-type(7):before {
+         content: "Saturday";
+     }
+
+
+ }
+
+ /* Smartphones (portrait and landscape) ----------- */
+
+ @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+     body {
+         padding: 0;
+         margin: 0;
+     }
+
+ }
+
+ /* iPads (portrait and landscape) ----------- */
+
+ @media only screen and (min-device-width: 802px) and (max-device-width: 1020px) {
+     body {
+         width: 495px;
+     }
+ }
+
+ @media (min-width:641px) {
+     table {
+         table-layout: fixed;
+     }
+     td {
+         width: 33%;
+     }
+
+ }
+
+ .row{
+     margin-top: 20px;
+ }
+
+ .today{
+     background:yellow;
+ }
+
+ /* contact section */
+ .video-container{
+ 	position: relative;
+ 	width: 60%;
+ 	padding-bottom: 33%;
+ 	padding-left: 33%;
+ 	height: 0;
+ }
+ .video-container iframe{
+ 	position: absolute;
+ 	top: 0;
+ 	left: 120px;
+ 	width: 100%;
+ 	height: 100%;
+ }
+ .map-container{
+ 	position: relative;
+ 	padding-bottom: 33%;
+ 	height: 100%;
+ }
+ .map-container iframe{
+ 	position: absolute;
+ 	top: 0;
+ 	left: 0px;
+ 	padding-right: 50px;
+ 	width: 100%;
+ 	height: 100%;
+ }
+/*
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+*/

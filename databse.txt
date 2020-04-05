@@ -1,0 +1,1 @@
+'mysql.scss.tcd.ie', 'kearnsdo', 'az9Pohxo', 'kearnsdo_db'

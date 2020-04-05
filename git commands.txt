@@ -1,0 +1,16 @@
+cd webdesign/bootstrap
+1. git init
+2. add index.html
+3. git status
+4. git commit -m “Initial project version” 
+5. git commit -a  //commits all files
+6. git	log -p    //Displays all log changes
+7. git checkout -- index.html //Reverts all code back to last saved version
+   git checkout master
+   git checkout dacb6fb60ca3717a9671487a1ced686919d9eb3f
+8. git add . //adds all files to repository
+9. git add *.html // adds all html files
+10. touch .gitignore  //creates an ingore file
+11. git checkout HEAD -- file.ext //restore a file
+12. git push
+13. git pull
