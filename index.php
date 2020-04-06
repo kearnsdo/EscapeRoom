@@ -20,7 +20,7 @@
 </ol>
 <div class ="carousel-inner" role="listbox"> <!--- Carousel 1 -->
 	<div class="carousel-item active">
-<img src="img/house.jpg">
+<img src="img/house.jpg" alt="Outside view of the building">
 <div class="carousel-caption">
 <h1 class="display-2">Meabhrach Escape Rooms</h1>
 <h3>Scroll to visit our unique rooms</h3>
@@ -30,7 +30,7 @@
 </div>
 </div>
 <div class="carousel-item"> <!--- Carousel 2 -->
-<img src="img/mirrors.jpg">
+<img src="img/mirrors.jpg" alt="A picture of a mirror">
 <div class="carousel-caption">
 <h1 class="display-2">Mirror Room</h1>
 
@@ -38,7 +38,7 @@
 </div>
 </div>
 <div class="carousel-item"> <!--- Carousel 3 -->
-<img src="img/mentalHospital.jpg">
+<img src="img/mentalHospital.jpg" alt="A picture of doctors inside a mental hopsital">
 <div class="carousel-caption">
 <h1 class="display-2">Mental Hospital</h1>
 
@@ -46,7 +46,7 @@
 </div>
 </div>
 <div class="carousel-item"> <!--- Carousel 4 -->
-<img src="img/whiteRoom.jpg">
+<img src="img/whiteRoom.jpg" alt="A white tunnel">
 <div class="carousel-caption">
 <h1 class="display-2">White Room</h1>
 
@@ -85,38 +85,21 @@
 <div class="container-fluid padding">
 	<div class="row text-center">
 		<div class="col-sm-6 col-md-3">
-			<img class="gif" src="img/gif/panda.gif">
+			<img class="gif" src="img/gif/panda.gif" alt="A gif of a panda emoji">
 </div>
 <div class="col-sm-6 col-md-3">
-	<img class="gif" src="img/gif/poo.gif">
+	<img class="gif" src="img/gif/poo.gif" alt="A gif of a poo emoji">
 </div>
 <div class="col-sm-6 col-md-3">
-	<img class="gif" src="img/gif/unicorn.gif">
+	<img class="gif" src="img/gif/unicorn.gif" alt="A gif of a unicorn emoji">
 </div>
 <div class="col-sm-6 col-md-3">
-	<img class="gif" src="img/gif/chicken.gif">
+	<img class="gif" src="img/gif/chicken.gif" alt="A gif of a chicken emoji">
 </div>
 </div>
 </div>
 </div>
 
-
-
-
-<!--- Connect -->
-<!-- <div class="container-fluid padding">
-	<div class="row text-center padding">
-		<div class="col-12">
-			<h2>Connect</h2>
-		</div>
-<div class="col-12 social padding">
-	<a href="facebook.com/example/"><i class="fab fa-facebook"></i></a>
-			<a href="facebook.com/example/"><i class="fab fa-twitter"></i></a>
-							<a href="facebook.com/example/"><i class="fab fa-instagram"></i></a>
-									<a href="facebook.com/example/"><i class="fab fa-youtube"></i></a>
-	</div>
-</div>
-</div> -->
 
 </body>
 </html>

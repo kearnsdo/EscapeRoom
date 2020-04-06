@@ -10,7 +10,7 @@
 });
 </script>
 <div class="container-fluid">
-<a class="navbar-brand" href="index.php"><img src="img/logo.png"></a>  <!-- Logo -->
+<a class="navbar-brand" href="index.php"><img src="img/logo.png" alt="A logo with a key and a lock">></a>  <!-- Logo -->
 <!-- Collapse button -->
 <button class="first-button" type="button" data-toggle="collapse" data-target="#navbarSupportedContent20"
   aria-controls="navbarSupportedContent20" aria-expanded="false" aria-label="Toggle navigation">
