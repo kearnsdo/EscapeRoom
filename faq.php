@@ -41,7 +41,7 @@
 				<button class="fun" data-toggle="collapse" data-target="#emoji2">2. What are escape rooms?</button>
 				<div id="emoji2" class="collapse">
 					<p>
-					Escape rooms are little adventures, whole other lives experienced in one hour. Behind the door of each of them you will find an immersive story, where you will be the protagonist. Once you start the game, first you will be given a brief that changes in relation to what exact game you booked. Once the gamemaster explains the story, they lead you behind the door of the playing room itself, and lock you in. Inside, you will find an elaborately designed space, where you have to solve riddles using different kinds of tools to progress and eventually get out of the room. Bring your friends and co-workers to this adventure, and you will certainly learn a lot of new things about yourselves.
+					Escape rooms are little adventures, whole other lives experienced in one hour. Behind the door of each of them you will find an immersive story, where you will be the protagonist. Once you start the game, first you will be given a brief that changes in relation to what exact game you booked. Once the gamemaster explains the story, they lead you behind the door of the playing room itself, and lock you in. Inside, you will find an elaborately designed space, where you have to solve riddles using different kinds of tools to progress and eventually get out of the room. To finish the quest you have only 60 minutes. Bring your friends and co-workers to this adventure, and you will certainly learn a lot of new things about yourselves.
 				</p>
 				</div>
 			</div>
