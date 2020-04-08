@@ -9,9 +9,15 @@ html, body{
   color: #222;
 }
 /*Navigation*/
-
+.first-button{
+     border: none;
+     background-color: #ffffff;
+}
+button:focus {
+  outline:0;
+}
 .nav-link{
-  font-size: 35px;
+  font-size: 25px;
 }
 .menu-info{
 text-align: center;
@@ -25,8 +31,11 @@ position: relative;
   left: 20%;
 }
 .animated-icon1 {
+  background-color: white;
+     border: none;
 width: 30px;
 height: 20px;
+
 position: relative;
 margin: 0px;
 -webkit-transform: rotate(0deg);
@@ -460,6 +469,9 @@ Label the data
  	height: 100%;
  }
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> origin/master
 
  /* Each room section */
  .imagehalf{
@@ -735,6 +747,8 @@ Label the data
      float: right;
      background: transparent;
  }
+<<<<<<< HEAD
+=======
 =======
   /* Each room section */
   .first-content .pic {
@@ -1007,6 +1021,7 @@ Label the data
       background: transparent;
   }
 >>>>>>> e87b799f115afeda896c3287807dde551715c23a
+>>>>>>> origin/master
 /*
 Extra small (xs) devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap
