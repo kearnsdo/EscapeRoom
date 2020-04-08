@@ -26,13 +26,13 @@
 	<div class="row text-center padding">
 <div class="col-xs-12 col-sm-6 col-md-4">
   <a href="mirror.php"><img src="img/icon_group.png" alt="mirror room icon"></a>
-	<h3>Wicked Mirror</h3>
+	<h3>Wicked Mirrors</h3>
 	<p>Discover what stands behind the cold reflective surface.</p>
 </div>
 <div class="col-xs-12 col-sm-6 col-md-4">
   <a href="mental.php"><img src="img/icon_scary.png" alt="mental room icon"></a>
 	<h3>Mental Hospital</h3>
-	<p>Unveil the dark secrets of the mental hospital and get away alive.</p>
+	<p>Unveil the dark secrets of the mental hospital and get out alive.</p>
 </div>
 <div class="col-sm-12 col-md-4">
   <a href="white.php"><img src="img/icon_actor.png" alt="white room icon"></a>
