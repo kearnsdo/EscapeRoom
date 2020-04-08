@@ -25,17 +25,17 @@
 <div class="container-fluid padding">
 	<div class="row text-center padding">
 <div class="col-xs-12 col-sm-6 col-md-4">
-	<i class="fa fa-window-restore"></i>
+  <a href="mirror.php"><img src="img/icon_group.png" alt="mirror room icon"></a>
 	<h3>Mirror Room</h3>
 	<p>This is escape room 1</p>
 </div>
 <div class="col-xs-12 col-sm-6 col-md-4">
-	<i class="fa fa-plus"></i>
+  <a href="mental.php"><img src="img/icon_scary.png" alt="mental room icon"></a>
 	<h3>Mental Hospital</h3>
 	<p>This is escape room 2</p>
 </div>
 <div class="col-sm-12 col-md-4">
-	<i class="fa fa-circle-thin"></i>
+  <a href="white.php"><img src="img/icon_actor.png" alt="white room icon"></a>
 	<h3>White Room</h3>
 	<p>This is escape room 3</p>
 </div>
@@ -43,55 +43,9 @@
 <hr class="my-4">
 </div>
 
-<!--- Meet the rooms -->
-<div class="container-fluid padding">
-	<div class="row welcome text-center">
-<div class="col-12">
-	<h1 class="display-4">Explore the rooms</h1>
-</div>
-<hr>
-</div>
-</div>
 
-<!--- Cards -->
-<div class="container-fluid padding">
-	<div class="row padding">
-		<div class="col-md-4">
-<div class"card">
-	<img class="card-img-top" src="img/mirrors2.jpg" alt="A picture of a bird in front of a mirror">
-	<div class="card-body">
-		<h4 class="card-title">Mirror Room</h4>
-		<p class="card-text">Escape room 1</p>
-		<a href="#" class="btn btn-outline-secondary">See Room</a>
-		</div>
-	</div>
-</div>
 
-<div class="col-md-4">
-<div class"card">
-<img class="card-img-top" src="img/mentalHospital2.jpg" alt="A picture of 8 doctors looking down on you while lying on a hopsital bed">
-<div class="card-body">
-<h4 class="card-title">Mental Room</h4>
-<p class="card-text">Escape room 2</p>
-<a href="#" class="btn btn-outline-secondary">See Room</a>
-</div>
-</div>
-</div>
 
-<div class="col-md-4">
-<div class"card">
-<img class="card-img-top" src="img/whiteRoom2.jpg" alt="A picture of a white tunnel">
-<div class="card-body">
-<h4 class="card-title">White Room</h4>
-<p class="card-text">Escape room 3</p>
-<a href="#" class="btn btn-outline-secondary">See Room</a>
-</div>
-</div>
-</div>
-
-</div>
-<hr class="my-4">  <!--- TCreates the long line -->
-</div>
 
 
 

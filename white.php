@@ -1,69 +1,59 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Each Room</title>
+    <title>White Room</title>
 	<?php include 'includes/head.php'; ?>
    <link href='https://fonts.googleapis.com/css?family=Quicksand:400,700|Quattrocento+Sans:400,700|Palanquin:400,600|Raleway|Josefin+Sans' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="style.css">
   </head>
   <body>
 <!-- Navigation -->
 <?php $page = 'ourrooms.php'; include 'includes/navbar.php'; ?>
 
     <div class="first-content">
-      <div class="pic" style="background: url(img/mentalHospital.jpg);" alt="A picture of doctors inside a mental hopsital">
+      <div class="pic" style="background: url(img/whiteRoom2.jpg);">
         <div class="overlay"></div>
         <div class="content">
-          <h3>Mental Hospital</h3>
+          <h3>The White Room</h3>
         </div>
       </div>
     </div>
     <div class="descrip">
       <div class="container">
         <h1> About </h1>
-		<center><img src="img/icon_scary.png" alt="scary"></center>
+		<center><img src="img/white.png" alt="white"></center>
 		<div class="row">
 			<div class="col-md col-sm-4 col-xs-12">
-        <h3>People: 5-10</h3>
+        <h3>People: 2-5</h3>
 		</div>
 		<div class="col-md col-sm-4 col-xs-12">
-		<h3>Difficulty: 4/5</h3>
+		<h3>Difficulty: 3/5</h3>
 		</div>
 		<div class="col-md col-sm-4 col-xs-12">
-		<h3>Level of Fear: 3.5/5
+		<h3>Level of Fear: 2/5
 		</h3>
 		</div>
-
 		</div>
-        <p> A usual day at your workplace, a local newspaper is interrupted by an odd phone call. Someone going by the name of Michael claims that he has the evidence of brutal and sadistic experiments being conducted on patients in the hospital for mentally ill people.
-That is sound material for an article! <br><br>
-The meeting with this “Michael” is very soon, and you can almost hear the future congratulations on your promotion from the jealous colleagues. However, very soon this new article material will turn into a dangerous weapon against yourself. As you uncover the story, you find out how many influential people operate behind the scenes of the hospital, and they’ll make sure to get rid of anyone getting too close to their secrets.
-<br><br>
-The Mental Hospital is a unique experience, merging the best from the escape room and horror performance quest genres. Several actors (their number depends on the number of participants) provide players with a truly scary experience, whereas they are trying to solve various riddles and puzzles. In the beginning of the game players choose the level of fear and the contact level (with actors).
- <br>
+        <p>Aw, have you been feeling down lately? One bad day after another? No worries then, pay a visit to the White Room, and you’ll see for yourself how many refined colours it will bring into your life.<br><br>
+The White Room represents everything that is in its name: every single object inside is white, but with the progression of the game a player will notice the colours change. Before entering the room, the players will be given a coloured pill (not real medicine, mostly sugar) for plot progression reasons. If the players successfully finished the first two rooms before, in this one they will uncover something else beyond the bright appeal of the White Room.
+
+
 
         </p>
       <div class="btn-book">
-		  <button class="book">
-			  Book Now
-		  </button>
+    <center>  <a class="btn btn-primary btn-lg" href="calendar3.php" role="button">Book Now</a></center>
 	  </div>
 	  <div class="second-section">
 	    <div class="filters">
 	      <ul id="filters">
-	        <li class="active" data-filter=".photography">More pictures</li>
-	        <li data-filter=".art">Our Actors</li>
+	       <center> <h2>More pictures</h2></centner>
 	      </ul>
 	    </div>
 	  </div>
 	  <div class="row masonry">
 	    <div class="col-md col-sm-6 col-xs-12 selector col-sm-6 col-xs-12 selector photography">
 	      <div class="item">
-	        <img src="img/mentalHospital2.jpg" alt="A picture of doctors inside a mental hopsital">
+	        <img src="img/whiteRoom1.png" alt="Image of a white room">
 	        <div class="overlay">
 	          <div class="overlay-inner">
 	            <h3>Exciting</h3>
@@ -74,21 +64,11 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
 	    </div>
 	    <div class="col-md-6  col-sm-6 col-xs-12 selector photography">
 	      <div class="item">
-	        <img src="img/mentalHospital1.png" alt="A picture of doctors inside a mental hopsital">
+	        <img src="img/whiteRoom2.png" alt="Image of a white tunel">
 	        <div class="overlay">
 	          <div class="overlay-inner">
-	            <h3>Lies</h3>
-	            <h5>Envious</h5>
-	          </div>
-	        </div>
-	      </div>
-	    </div>
-	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
-	      <div class="item">
-	        <img src="img/icon_actor.png" alt="actor">
-	        <div class="overlay">
-	          <div class="overlay-inner">
-	            <h3>Sophie</h3>
+	           <h3>Exciting</h3>
+	           <h5>Fear</h5>
 	          </div>
 	        </div>
 	      </div>
@@ -105,7 +85,7 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
         <div class="row">
           <div class="col-md-2">
             <div class="picture">
-              <img src="img/portret22.png" alt="user image">
+              <img src="img/portret22.png" alt="User icon">
             </div>
           </div>
           <div class="col-md-10">
@@ -119,7 +99,7 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
          <div class="row items4">
           <div class="col-md-2">
             <div class="picture">
-              <img src="img/portreti23.png" alt="user image">
+              <img src="img/portreti23.png" alt="User icon">
             </div>
           </div>
           <div class="col-md-10">
@@ -150,18 +130,12 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
                                 <input type="submit" onclick="comment()" value="Comment">
 								<script>
 									function comment(){
-										alert("Your comment has submitted !");
+										alert("Your comment has been submitted !");
 									}
 								</script>
                             </div>
                  </form>
       </div>
     </div>
-	<script src="assets/js/jquery-2.1.4.js"></script>
-	<script src="assets/js/bootstrap.min.js"></script>
-	<script src="assets/js/jquery.slicknav.js"></script>
-	<script src="assets/js/isotope.pkgd.min.js"></script>
-	<script src="assets/js/owl.carousel.js"></script>
-	<script src="assets/js/main.js"></script>
   </body>
 </html>

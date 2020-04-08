@@ -1,21 +1,17 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Each Room</title>
+    <title>Mental Room</title>
 	<?php include 'includes/head.php'; ?>
    <link href='https://fonts.googleapis.com/css?family=Quicksand:400,700|Quattrocento+Sans:400,700|Palanquin:400,600|Raleway|Josefin+Sans' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="style.css">
   </head>
   <body>
 <!-- Navigation -->
 <?php $page = 'ourrooms.php'; include 'includes/navbar.php'; ?>
 
     <div class="first-content">
-      <div class="pic" style="background: url(img/mentalHospital.jpg);" alt="A picture of doctors inside a mental hopsital">
+      <div class="pic" style="background: url(img/mentalHospital.jpg);">
         <div class="overlay"></div>
         <div class="content">
           <h3>Mental Hospital</h3>
@@ -48,9 +44,7 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
 
         </p>
       <div class="btn-book">
-		  <button class="book">
-			  Book Now
-		  </button>
+		      <center>  <a class="btn btn-primary btn-lg" href="calendar2.php" role="button">Book Now</a></center>
 	  </div>
 	  <div class="second-section">
 	    <div class="filters">
@@ -62,19 +56,22 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
 	  </div>
 	  <div class="row masonry">
 	    <div class="col-md col-sm-6 col-xs-12 selector col-sm-6 col-xs-12 selector photography">
+        <div class="imagehalf">
 	      <div class="item">
-	        <img src="img/mentalHospital2.jpg" alt="A picture of doctors inside a mental hopsital">
+	        <img src="img/mentalHospital2.jpg" alt="Images of mental hopsital">
 	        <div class="overlay">
 	          <div class="overlay-inner">
 	            <h3>Exciting</h3>
 	            <h5>Fear</h5>
 	          </div>
 	        </div>
+        </div>
 	      </div>
 	    </div>
 	    <div class="col-md-6  col-sm-6 col-xs-12 selector photography">
-	      <div class="item">
-	        <img src="img/mentalHospital1.png" alt="A picture of doctors inside a mental hopsital">
+	      <div class="imagehalf">
+          <div class="item">
+	        <img src="img/mentalHospital1.png" alt="Images of mental hopsital">
 	        <div class="overlay">
 	          <div class="overlay-inner">
 	            <h3>Lies</h3>
@@ -82,10 +79,11 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
 	          </div>
 	        </div>
 	      </div>
+      </div>
 	    </div>
 	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
 	      <div class="item">
-	        <img src="img/icon_actor.png" alt="actor">
+	        <img src="img/icon_actor.png" alt="Actor">
 	        <div class="overlay">
 	          <div class="overlay-inner">
 	            <h3>Sophie</h3>
@@ -105,7 +103,7 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
         <div class="row">
           <div class="col-md-2">
             <div class="picture">
-              <img src="img/portret22.png" alt="user image">
+              <img src="img/portret22.png" alt="">
             </div>
           </div>
           <div class="col-md-10">
@@ -119,7 +117,7 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
          <div class="row items4">
           <div class="col-md-2">
             <div class="picture">
-              <img src="img/portreti23.png" alt="user image">
+              <img src="img/portreti23.png" alt="">
             </div>
           </div>
           <div class="col-md-10">
@@ -150,7 +148,7 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
                                 <input type="submit" onclick="comment()" value="Comment">
 								<script>
 									function comment(){
-										alert("Your comment has submitted !");
+										alert("Your comment has been submitted !");
 									}
 								</script>
                             </div>
