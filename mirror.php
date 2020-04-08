@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Mirror Room</title>
+    <title>Wicked Mirrors</title>
 	<?php include 'includes/head.php'; ?>
    <link href='https://fonts.googleapis.com/css?family=Quicksand:400,700|Quattrocento+Sans:400,700|Palanquin:400,600|Raleway|Josefin+Sans' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -14,7 +14,7 @@
       <div class="pic" style="background: url(img/mirrorRoom1.png);">
         <div class="overlay"></div>
         <div class="content">
-          <h3>Mirror Room</h3>
+          <h3>Eicked Mirrors</h3>
         </div>
       </div>
     </div>

@@ -32,7 +32,7 @@
 <div class="carousel-item"> <!--- Carousel 2 -->
 <img src="img/mirrors.jpg" alt="A picture of a mirror">
 <div class="carousel-caption">
-<h1 class="display-2">Mirror Room</h1>
+<h1 class="display-2">Wicked Mirrors</h1>
 
 <a class="btn btn-outline-light btn-lg" href="mirror.php" role="button">VIEW ROOM</a>
 </div>

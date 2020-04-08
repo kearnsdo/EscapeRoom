@@ -28,7 +28,7 @@
 <div class"card">
 	<img class="card-img-top" src="img/mirrors2.jpg" alt="A picture of a bird in front of a mirror">
 	<div class="card-body">
-		<h4 class="card-title">Mirror Room</h4>
+		<h4 class="card-title">Wicked Mirrors</h4>
 
 		<a href="calendar.php" class="btn btn-outline-secondary">Book</a>
 		</div>
@@ -39,7 +39,7 @@
 <div class"card">
 <img class="card-img-top" src="img/mentalHospital2.jpg" alt="A picture of 8 doctors looking down on you while lying on a hopsital bed">
 <div class="card-body">
-<h4 class="card-title">Mental Room</h4>
+<h4 class="card-title">Mental Hospital</h4>
 
 <a href="calendar2.php" class="btn btn-outline-secondary">Book</a>
 </div>

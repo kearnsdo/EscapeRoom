@@ -16,7 +16,7 @@
 <div class="container-fluid padding">
 	<div class="row welcome text-center">
 <div class="col-12">
-	<h1 class="display-4">Mirror Room Calendar</h1>
+	<h1 class="display-4">Wicked Mirrors Calendar</h1>
 </div>
 <hr>
 </div>
