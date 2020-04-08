@@ -18,9 +18,6 @@
 					<div class="video-container">
 						<iframe width="100%" height="315px" src="HowToGet.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 					</div>
-					<center>
-	<a href="howtogetheretext.php">Click here for screen readers</a>
-	</center>
 				</div>
 		<div class="col-4">
 				<div class="map-container">
@@ -35,7 +32,7 @@
 							<h2>Connect</h2>
 						</div>
 				<div class="col-12 social padding">
-					<a href="facebook.com/example/"><i class="fab fa-facebook"></i></a>
+					<a href="facebook.com/example/"><i class="fab fa-facebook"></i></a>							
 											<a href="facebook.com/example/"><i class="fab fa-instagram"></i></a>
 											<a href="facebook.com/example/"><i class="fab fa-linkedin"></i></a>
 													<a href="facebook.com/example/"><i class="fab fa-tripadvisor"></i></a>

@@ -58,7 +58,7 @@
 	<div class="row padding">
 		<div class="col-md-4">
 <div class"card">
-	<img class="card-img-top" src="img/mirrors2.jpg" alt="A picture of a bird in front of a mirror">
+	<img class="card-img-top" src="img/mirrors2.jpg">
 	<div class="card-body">
 		<h4 class="card-title">Mirror Room</h4>
 		<p class="card-text">Escape room 1</p>
@@ -69,7 +69,7 @@
 
 <div class="col-md-4">
 <div class"card">
-<img class="card-img-top" src="img/mentalHospital2.jpg" alt="A picture of 8 doctors looking down on you while lying on a hopsital bed">
+<img class="card-img-top" src="img/mentalHospital2.jpg">
 <div class="card-body">
 <h4 class="card-title">Mental Room</h4>
 <p class="card-text">Escape room 2</p>
@@ -80,7 +80,7 @@
 
 <div class="col-md-4">
 <div class"card">
-<img class="card-img-top" src="img/whiteRoom2.jpg" alt="A picture of a white tunnel">
+<img class="card-img-top" src="img/whiteRoom2.jpg">
 <div class="card-body">
 <h4 class="card-title">White Room</h4>
 <p class="card-text">Escape room 3</p>
