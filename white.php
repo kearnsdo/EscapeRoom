@@ -90,7 +90,7 @@ The White Room represents everything that is in its name: every single object in
           </div>
           <div class="col-md-10">
           <div class="txt">
-            <h5>Edi</h5>
+            <h5>Seamus</h5>
             <span>Friday at 01:00 PM</span>
             <p>Omg that was amazing. 10/10</p>
             </div>
@@ -104,7 +104,7 @@ The White Room represents everything that is in its name: every single object in
           </div>
           <div class="col-md-10">
           <div class="txt">
-            <h5>Kate</h5>
+            <h5>Violetta</h5>
             <span>Monday at 10:00 AM</span>
             <p>Never have been scared as much in my life</p>
             </div>

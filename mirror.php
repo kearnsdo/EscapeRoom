@@ -95,7 +95,7 @@ Wicked Mirrors primarily is a horror riddle game which includes elements of dete
           </div>
           <div class="col-md-10">
           <div class="txt">
-            <h5>Edi</h5>
+            <h5>Oscar</h5>
             <span>Friday at 01:00 PM</span>
             <p>Great theme!</p>
             </div>

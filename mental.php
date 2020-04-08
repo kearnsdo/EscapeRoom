@@ -108,7 +108,7 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
           </div>
           <div class="col-md-10">
           <div class="txt">
-            <h5>Edi</h5>
+            <h5>Lin</h5>
             <span>Friday at 01:00 PM</span>
             <p>Great job!</p>
             </div>
