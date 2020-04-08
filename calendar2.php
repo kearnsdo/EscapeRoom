@@ -24,7 +24,7 @@
 
 <?php
 function build_calendar($month, $year) {
-    $mysqli = new mysqli('localhost', 'root', '', 'calendar');
+   $mysqli = new mysqli('mysql.scss.tcd.ie', 'koshkine', 'Nuziev7G', 'koshkine_db');
     $stmt = $mysqli->prepare("select * from bookings where MONTH(date) = ? AND YEAR(date) = ?");
     $stmt->bind_param('ss', $month, $year);
     $bookings = array();

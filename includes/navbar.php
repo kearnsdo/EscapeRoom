@@ -10,9 +10,9 @@
 });
 </script>
 <div class="container-fluid">
-<a class="navbar-brand" href="index.php"><img src="img/logo.png"></a>  <!-- Logo -->
+<a class="navbar-brand" href="index.php"><img src="img/logo.png" alt="A logo with a key and a lock">></a>  <!-- Logo -->
 <!-- Collapse button -->
-<button class="navbar-toggler first-button" type="button" data-toggle="collapse" data-target="#navbarSupportedContent20"
+<button class="first-button" type="button" data-toggle="collapse" data-target="#navbarSupportedContent20"
   aria-controls="navbarSupportedContent20" aria-expanded="false" aria-label="Toggle navigation">
   <div class="animated-icon1"><span></span><span></span><span></span></div>
 </button>
@@ -37,10 +37,10 @@
 	<div class="row text-center padding">
 
 <div class="col-12 social2 padding">
-	<a href="facebook.com/example/"><i class="fab fa-facebook"></i></a>
-							<a href="facebook.com/example/"><i class="fab fa-instagram"></i></a>
-							<a href="facebook.com/example/"><i class="fab fa-linkedin"></i></a>
-									<a href="facebook.com/example/"><i class="fab fa-tripadvisor"></i></a>
+	<a href="http://facebook.com/"><i class="fab fa-facebook"></i></a>
+							<a href="http://instagram.com//"><i class="fab fa-instagram"></i></a>
+							<a href="https://www.linkedin.com"><i class="fab fa-linkedin"></i></a>
+									<a href="https://www.tripadvisor.ie/"><i class="fab fa-tripadvisor"></i></a>
 	</div>
 </div>
 </div>
@@ -66,6 +66,7 @@
 <li class="nav-item">
 	<a class="nav-link" href="howtogethere.php">How to Get There</a>
 </li>
+<p></p><p></p><p></p>
   </ul>
 
 <!-- Collapsible content -->
