@@ -14,7 +14,7 @@
       <div class="pic" style="background: url(img/mirrorRoom1.png);">
         <div class="overlay"></div>
         <div class="content">
-          <h3>Eicked Mirrors</h3>
+          <h3>Wicked Mirrors</h3>
         </div>
       </div>
     </div>
