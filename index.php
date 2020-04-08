@@ -24,9 +24,9 @@
 <div class="carousel-caption">
 <h1 class="display-2">Meabhrach Escape Rooms</h1>
 <h3>Scroll to visit our unique rooms</h3>
-<button type="button" class="btn btn-outline-light btn-lg">VIEW ROOM</button> <!--- See through button-->
+<!-- <button type="button" class="btn btn-outline-light btn-lg">VIEW ROOM</button> -->
 <!-- <button type="button" class="btn btn-primary btn-lg">VIEW ROOM</button>  Blue button -->
-
+<a class="btn btn-outline-light btn-lg" href="ourrooms.php" role="button">VIEW ROOM</a>
 </div>
 </div>
 <div class="carousel-item"> <!--- Carousel 2 -->
@@ -34,7 +34,7 @@
 <div class="carousel-caption">
 <h1 class="display-2">Mirror Room</h1>
 
-<button type="button" class="btn btn-outline-light btn-lg">VIEW ROOM</button>
+<a class="btn btn-outline-light btn-lg" href="mirror.php" role="button">VIEW ROOM</a>
 </div>
 </div>
 <div class="carousel-item"> <!--- Carousel 3 -->
@@ -42,7 +42,7 @@
 <div class="carousel-caption">
 <h1 class="display-2">Mental Hospital</h1>
 
-<button type="button" class="btn btn-outline-light btn-lg">VIEW ROOM</button>
+<a class="btn btn-outline-light btn-lg" href="mental.php" role="button">VIEW ROOM</a>
 </div>
 </div>
 <div class="carousel-item"> <!--- Carousel 4 -->
@@ -50,7 +50,7 @@
 <div class="carousel-caption">
 <h1 class="display-2">White Room</h1>
 
-<button type="button" class="btn btn-outline-light btn-lg">VIEW ROOM</button>
+<a class="btn btn-outline-light btn-lg" href="white.php" role="button">VIEW ROOM</a>
 </div>
 </div>
 	</div>
