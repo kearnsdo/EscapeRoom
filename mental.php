@@ -110,7 +110,7 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
           <div class="txt">
             <h5>Edi</h5>
             <span>Friday at 01:00 PM</span>
-            <p>Great Theme!</p>
+            <p>Great job!</p>
             </div>
           </div>
         </div>
@@ -124,7 +124,7 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
           <div class="txt">
             <h5>Kate</h5>
             <span>Monday at 10:00 AM</span>
-            <p>Nice job Guys, i love it so much !</p>
+            <p>Loved the experience!</p>
             </div>
           </div>
         </div>
