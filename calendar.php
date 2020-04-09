@@ -16,8 +16,9 @@
 <div class="container-fluid padding">
 	<div class="row welcome text-center">
 <div class="col-12">
-	<h1 class="display-4">Wicked Mirrors Calendar</h1>
+	<h1 class="display-4">Mirror Room Calendar</h1>
 </div>
+
 <hr>
 </div>
 </div>
@@ -185,7 +186,7 @@ function build_calendar($month, $year) {
             </div>
         </div>
     </div>
-    <?php include 'includes/footer.php' ?>
-
+<center> <a class="btn btn-secondary" href="booking.php" role="button">Back</a></center>
+<hr>
     </body>
     </html>

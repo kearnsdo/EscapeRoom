@@ -185,7 +185,8 @@ function build_calendar($month, $year) {
             </div>
         </div>
     </div>
-    <?php include 'includes/footer.php' ?>
+   <center> <a class="btn btn-secondary" href="booking.php" role="button">Back</a></center>
+<hr>
 
     </body>
     </html>
