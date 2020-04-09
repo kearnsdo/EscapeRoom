@@ -34,7 +34,7 @@
 		<h3>Difficulty: 4/5</h3>
 		</div>
 		<div class="col-md col-sm-4 col-xs-12">
-		<h3>Level of Fear: 3.5/5
+		<h3>Level of Fear: 3-5/5
 		</h3>
 		</div>
 
