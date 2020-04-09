@@ -3,6 +3,9 @@
 <head>
     <title>Our Rooms</title>
 <?php include 'includes/head.php'; ?>
+  <meta name="description" content="An overview of the different escape rooms we offer. Click to see more. ">
+  <meta name="keywords" content="activity, fun, Meabhrach Escape Rooms, Escape Room, Dublin, escape room, Wicked Mirror, Mental Hospital, White Room, offer ">
+  <meta name="author" content="Group 2">
 </head>
 <body>
 

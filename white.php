@@ -6,6 +6,7 @@
       <meta name="description" content="Everything white. Will you be able to uncover the colours of the White Room?">
       <meta name="keywords" content="activity, fun, Meabhrach Escape Rooms, Escape Room, Dublin, White Room ">
       <meta name="author" content="Group 2">
+
    <link href='https://fonts.googleapis.com/css?family=Quicksand:400,700|Quattrocento+Sans:400,700|Palanquin:400,600|Raleway|Josefin+Sans' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>

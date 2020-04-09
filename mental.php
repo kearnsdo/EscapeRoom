@@ -63,12 +63,7 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
         <div class="imagehalf">
 	      <div class="item">
 	        <img src="img/mentalHospital2.jpg" alt="Images of mental hopsital">
-	        <div class="overlay">
-	          <div class="overlay-inner">
-	            <h3>Exciting</h3>
-	            <h5>Fear</h5>
-	          </div>
-	        </div>
+
         </div>
 	      </div>
 	    </div>
@@ -77,54 +72,28 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
 	      <div class="imagehalf">
           <div class="item">
 	        <img src="img/mentalHospital1.png" alt="Images of mental hopsital">
-	        <div class="overlay">
-	          <div class="overlay-inner">
-	            <h3>Lies</h3>
-	            <h5>Envious</h5>
-	          </div>
-	        </div>
-	      </div>
+	       </div>
       </div>
 	    </div>
 
 	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
 	      <div class="item">
 	        <img src="img/actor1.jpeg" alt="picture of actor 1">
-	        <div class="overlay">
-	          <div class="overlay-inner">
-	            <h3>Sophie</h3>
-	          </div>
-	        </div>
-	      </div>
+	       	      </div>
 	    </div>
 	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
 	      <div class="item">
 	        <img src="img/actor2.jpeg" alt="picture of actor 2">
-	        <div class="overlay">
-            	<div class="overlay-inner">
-            	    <h3>Donal</h3>
-            	</div>
-            </div>
 	      </div>
 	    </div>
 	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
 	      <div class="item">
 	        <img src="img/actor3.jpeg" alt="picture of actor 3">
-	        <div class="overlay">
-            	<div class="overlay-inner">
-            	    <h3>Kate</h3>
-            	</div>
-            </div>
-	      </div>
+	       </div>
 	    </div>
 	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
 	      <div class="item">
 	        <img src="img/actor4.jpeg" alt="picture of actor 4">
-	        <div class="overlay">
-            	<div class="overlay-inner">
-            	    <h3>Xin</h3>
-            	</div>
-            </div>
 	      </div>
 	    </div>
 
