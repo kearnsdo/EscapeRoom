@@ -49,7 +49,7 @@ Wicked Mirrors primarily is a horror riddle game which includes elements of dete
 
         </p>
       <div class="btn-book">
-     <center>  <a class="btn btn-primary btn-lg" href="calendar1.php" role="button">Book Now</a></center>
+     <center>  <a class="btn btn-primary btn-lg" href="calendar.php" role="button">Book Now</a></center>
 	  </div>
 	  <div class="second-section">
 	    <div class="filters">
