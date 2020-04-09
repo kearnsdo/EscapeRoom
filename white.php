@@ -38,7 +38,7 @@
 		</div>
 		</div>
         <p>Aw, have you been feeling down lately? One bad day after another? No worries then, pay a visit to the White Room, and you’ll see for yourself how many refined colours it will bring into your life.<br><br>
-The White Room represents everything that is in its name: every single object inside is white, but with the progression of the game a player will notice the colours change. Before entering the room, the players will be given a coloured pill (not real medicine, mostly sugar) for plot progression reasons. If the players successfully finished the first two rooms before, in this one they will uncover something else beyond the bright appeal of the White Room.
+The White Room represents everything that is in its name: every single object inside is white, but with the progression of the game a player will notice the colours change. If the players successfully finished the first two rooms before, in this one they will uncover something else beyond the bright appeal of the White Room.
 
 
 
@@ -57,23 +57,11 @@ The White Room represents everything that is in its name: every single object in
 	    <div class="col-md col-sm-6 col-xs-12 selector col-sm-6 col-xs-12 selector photography">
 	      <div class="item">
 	        <img src="img/whiteRoom1.jpg" alt="Image of a person in a white room">
-	        <div class="overlay">
-	          <div class="overlay-inner">
-	            <h3>Exciting</h3>
-	            <h5>Fear</h5>
-	          </div>
-	        </div>
 	      </div>
 	    </div>
 	    <div class="col-md-6  col-sm-6 col-xs-12 selector photography">
 	      <div class="item">
 	        <img src="img/whiteRoom3.jpg" alt="Image of the white room interior">
-	        <div class="overlay">
-	          <div class="overlay-inner">
-	           <h3>Exciting</h3>
-	           <h5>Fear</h5>
-	          </div>
-	        </div>
 	      </div>
 	    </div>
 	  </div>
