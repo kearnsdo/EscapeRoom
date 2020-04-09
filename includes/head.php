@@ -7,8 +7,11 @@
 <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script> <!--adds the social media icons-->
 <link href="style.css" rel="stylesheet">
 
+ <link rel="icon" href="img/logo.png" type="image/gif" sizes="16x16">
+
 
 <script src="modal.js"></script>
+
 
 
 <!-- Modals -->
@@ -75,4 +78,3 @@
         </div>
     </div>
 </div>
-
