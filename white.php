@@ -56,7 +56,7 @@ The White Room represents everything that is in its name: every single object in
 	  <div class="row masonry">
 	    <div class="col-md col-sm-6 col-xs-12 selector col-sm-6 col-xs-12 selector photography">
 	      <div class="item">
-	        <img src="img/whiteRoom1.png" alt="Image of a white room">
+	        <img src="img/whiteRoom1.jpg" alt="Image of a white room">
 	        <div class="overlay">
 	          <div class="overlay-inner">
 	            <h3>Exciting</h3>
