@@ -56,7 +56,7 @@ The White Room represents everything that is in its name: every single object in
 	  <div class="row masonry">
 	    <div class="col-md col-sm-6 col-xs-12 selector col-sm-6 col-xs-12 selector photography">
 	      <div class="item">
-	        <img src="img/whiteRoom1.jpg" alt="Image of a white room">
+	        <img src="img/whiteRoom1.jpg" alt="Image of a person in a white room">
 	        <div class="overlay">
 	          <div class="overlay-inner">
 	            <h3>Exciting</h3>
@@ -67,7 +67,7 @@ The White Room represents everything that is in its name: every single object in
 	    </div>
 	    <div class="col-md-6  col-sm-6 col-xs-12 selector photography">
 	      <div class="item">
-	        <img src="img/whiteRoom2.png" alt="Image of a white tunel">
+	        <img src="img/whiteRoom3.jpg" alt="Image of the white room interior">
 	        <div class="overlay">
 	          <div class="overlay-inner">
 	           <h3>Exciting</h3>
@@ -133,7 +133,7 @@ The White Room represents everything that is in its name: every single object in
                                 <input type="submit" onclick="comment()" value="Comment">
 								<script>
 									function comment(){
-										alert("Your comment has been submitted !");
+										alert("Your comment has been submitted!");
 									}
 								</script>
                             </div>
