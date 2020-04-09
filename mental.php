@@ -3,6 +3,10 @@
   <head>
     <title>Mental Hospital</title>
 	<?php include 'includes/head.php'; ?>
+	  <meta name="description" content="Information from an anonymous source about sadistic experiments in a mental hospital. Will you dare to try and solve this case of the Mental Hospital?">
+      <meta name="keywords" content="activity, fun, Meabhrach Escape Rooms, Escape Room, Dublin, Mental Hospital">
+      <meta name="author" content="Group 2">
+
    <link href='https://fonts.googleapis.com/css?family=Quicksand:400,700|Quattrocento+Sans:400,700|Palanquin:400,600|Raleway|Josefin+Sans' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
@@ -68,6 +72,7 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
         </div>
 	      </div>
 	    </div>
+
 	    <div class="col-md-6  col-sm-6 col-xs-12 selector photography">
 	      <div class="imagehalf">
           <div class="item">
@@ -81,9 +86,10 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
 	      </div>
       </div>
 	    </div>
+
 	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
 	      <div class="item">
-	        <img src="img/icon_actor.png" alt="Actor">
+	        <img src="img/actor1.jpeg" alt="picture of actor 1">
 	        <div class="overlay">
 	          <div class="overlay-inner">
 	            <h3>Sophie</h3>
@@ -91,6 +97,39 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
 	        </div>
 	      </div>
 	    </div>
+	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
+	      <div class="item">
+	        <img src="img/actor2.jpeg" alt="picture of actor 2">
+	        <div class="overlay">
+            	<div class="overlay-inner">
+            	    <h3>Donal</h3>
+            	</div>
+            </div>
+	      </div>
+	    </div>
+	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
+	      <div class="item">
+	        <img src="img/actor3.jpeg" alt="picture of actor 3">
+	        <div class="overlay">
+            	<div class="overlay-inner">
+            	    <h3>Kate</h3>
+            	</div>
+            </div>
+	      </div>
+	    </div>
+	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
+	      <div class="item">
+	        <img src="img/actor4.jpeg" alt="picture of actor 4">
+	        <div class="overlay">
+            	<div class="overlay-inner">
+            	    <h3>Xin</h3>
+            	</div>
+            </div>
+	      </div>
+	    </div>
+
+
+
 	  </div>
       </div>
     </div>
