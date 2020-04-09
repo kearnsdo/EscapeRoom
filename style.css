@@ -247,6 +247,34 @@ hr.light-100{
 }
   }
 @media (max-width: 768px) {
+  .fa-facebook{
+   visibility: hidden;
+  }
+  .fa-linkedin{
+   visibility: hidden;
+  }
+  .fa-instagram{
+   visibility: hidden;
+  }
+  .fa-tripadvisor{
+ visibility: hidden;
+  }
+  .social a {
+    font-size: 0px;
+    padding: 2rem;
+    color: white;
+  }
+  .nav-link{
+    font-size: 10px;
+  }
+  .menu-info{
+  text-align: left;
+  }
+  .menu-right{
+      font-size: 10px;
+    position: absolute;
+    left: 50%;
+  }
   .carousel-caption{
     top: 45%;
   }
@@ -271,6 +299,33 @@ hr.light-100{
   }
 }
 @media (max-width: 576px) {
+  .fa-facebook{
+   visibility: hidden;
+  }
+  .fa-linkedin{
+   visibility: hidden;
+  }
+  .fa-instagram{
+   visibility: hidden;
+  }
+  .fa-tripadvisor{
+ visibility: hidden;
+  }
+  .nav-link{
+    font-size: 10px;
+  }
+  .menu-info{
+  text-align: left;
+  }
+  .menu-right{
+      font-size: 10px;
+    position: absolute;
+    left: 50%;
+  }
+  .nav-item{
+  position: relative;
+    left: 20%;
+  }
   .carousel-caption{
     top: 40%;
   }
@@ -760,18 +815,18 @@ Label the data
       position: relative !important;
       background-attachment: fixed !important;
   }
-  
+
   .first-content .about-picture {
       background-position: center 0 !important;
   }
-  
+
   .first-content .pic .overlay {
       position: absolute;
       width: 100%;
       height: 100%;
       background-color: rgba(0, 0, 0, 0.29);
   }
-  
+
   .first-content .pic .content {
       text-align: center;
       width: 100%;
@@ -885,7 +940,7 @@ Label the data
       transition: .3s all; */
 	  max-width: 100%;
   }
-  
+
   .masonry .item:hover img {
       -webkit-transform: scale3d(1.1, 1.1, 1);
       transform: scale3d(1.1, 1.1, 1);
@@ -937,7 +992,7 @@ Label the data
       text-decoration: none;
       color: #3c3a3a;
   }
-  
+
   .items .overlay .content {
       position: absolute;
       height: 100%;
@@ -950,7 +1005,7 @@ Label the data
       -o-transition: 0.3s all;
       transition: 0.3s all;
   }
-  
+
   .comment{
 	  background-color:#f9f9f9;
 	  padding-bottom: 50px;
