@@ -133,7 +133,7 @@ The White Room represents everything that is in its name: every single object in
                                 <input type="submit" onclick="comment()" value="Comment">
 								<script>
 									function comment(){
-										alert("Your comment has been submitted !");
+										alert("Your comment has been submitted!");
 									}
 								</script>
                             </div>
