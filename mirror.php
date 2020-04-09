@@ -25,7 +25,7 @@
     <div class="descrip">
       <div class="container">
         <h1> About </h1>
-		<center><img src="img/icon_group.png" alt="mirror"></center>
+		<center><img src="img/icon_crazy.png" alt="mirror"></center>
 		<div class="row">
 			<div class="col-md col-sm-4 col-xs-12">
 
