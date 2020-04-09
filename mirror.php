@@ -3,6 +3,10 @@
   <head>
     <title>Wicked Mirrors</title>
 	<?php include 'includes/head.php'; ?>
+	  <meta name="description" content="Dark creatures coming to our world through Wicked Mirrors, ridiculous stories or mysteries not yet uncovered by scientist? Come and find out!">
+      <meta name="keywords" content="activity, fun, Meabhrach Escape Rooms, Escape Room, Dublin, Wicked Mirrors ">
+      <meta name="author" content="Group 2">
+
    <link href='https://fonts.googleapis.com/css?family=Quicksand:400,700|Quattrocento+Sans:400,700|Palanquin:400,600|Raleway|Josefin+Sans' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
