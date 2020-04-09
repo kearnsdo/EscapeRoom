@@ -3,7 +3,7 @@
 	<head>
 	<title>Directions</title>
 		<?php include 'includes/head.php'; ?>
-		<meta name="description" content="Not sure how to get to Meabhrach Escape Rooms? Here you can find directions to get to our location by bus or by Luas">
+		<meta name="description" content="Not sure how to get to Meabhrach Escape Rooms? Here you can find directions, a link to Google Maps and a video on how to get to our location from the nearest Luas stop">
 		<meta name="keywords" content="public transport, bus, Luas, Meabhrach Escape Rooms, Escape Room, Dublin">
 		<meta name="author" content="Group 2">
 	</head>
@@ -17,7 +17,7 @@
 	<div class="row">
 		<div class="col-7">
 					<div class="video-container">
-						<iframe width="100%" height="315px" src="HowToGet.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						<iframe width="100%" height="315px" src="HowToGet.mp4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 					</div>
 				</div>
 		<div class="col-4">
