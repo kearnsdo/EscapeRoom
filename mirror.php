@@ -41,9 +41,9 @@
 		</div>
 
 		</div>
-        <p> Grandma always told you: dark creatures can sneak into our reality through the mirrors, once the path is opened. When you were a child, it terrified you. Old woman was probably going mad the last years of her life, but you saw fear in her pale eyes, and it followed you everywhere. You remember waking up, trembling from another nightmare that came upon you that night. You remember closing your eyes as tightly as you could when you went by mirrors in the house. However, once grandma passed away, you started to forget your fear. It weakened, but you still shiver at the blink of a smooth reflective surface.
+        <p> Grandma always told you: dark creatures can sneak into our reality through the mirrors once the path is opened. When you were a child, it terrified you. Old woman was probably going mad the last years of her life, but you saw fear in her pale eyes, and it followed you everywhere. You remember waking up, trembling from another nightmare that came upon you that night. You remember closing your eyes as tightly as you could when you went by mirrors in the house. However, once grandma passed away, you started to forget your fear. It weakened, but you still shiver at the blink of a smooth reflective surface.
  <br><br>Yet still, you are here. You came once she called you, out of respect for your old friendship, of course. Is it another ridiculous idea of hers, or is she really onto something?.. <br><br>
-Wicked Mirrors primarily is a horror riddle game which includes elements of detective story. A group of players will find themselves in a secret abandoned laboratory, where a scientist was researching mirrors and their effect on human beings. With the progression of the quest, the intensity of the story rises, so in advance players choose the level of fear they can handle.
+Wicked Mirrors is primarily a horror riddle game which includes elements of detective story. A group of players will find themselves in a secret abandoned laboratory, where a scientist was researching mirrors and their effect on human beings. With the progression of the quest, the intensity of the story rises, so in advance players choose the level of fear they can handle.
 
 
 
@@ -62,23 +62,11 @@ Wicked Mirrors primarily is a horror riddle game which includes elements of dete
 	    <div class="col-md col-sm-6 col-xs-12 selector col-sm-6 col-xs-12 selector photography">
 	      <div class="item">
 	        <img src="img/mirrors.jpg" alt="Image of a window">
-	        <div class="overlay">
-	          <div class="overlay-inner">
-	            <h3>Exciting</h3>
-	            <h5>Fear</h5>
-	          </div>
-	        </div>
 	      </div>
 	    </div>
 	    <div class="col-md-6  col-sm-6 col-xs-12 selector photography">
 	      <div class="item">
 	        <img src="img/mirrors2.jpg" alt="Image of a bird in front of a mirror">
-	        <div class="overlay">
-	          <div class="overlay-inner">
-	            <h3>Exciting</h3>
-	            <h5>Fear</h5>
-	          </div>
-	        </div>
 	      </div>
 	    </div>
 	  </div>
