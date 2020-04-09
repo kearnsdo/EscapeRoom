@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <title>Home</title>
 <?php include 'includes/head.php'; ?>
   <meta name="description" content="Looking for a fun activity? Are you adventurous, you have nerves of steel and a knack for solving riddles? Check out our 3 Meabhrach Escape Rooms!">
   <meta name="keywords" content="activity, fun, Meabhrach Escape Rooms, Escape Room, Dublin ">
@@ -85,16 +86,16 @@
 <div class="container-fluid padding">
 	<div class="row text-center">
 		<div class="col-sm-6 col-md-3">
-			<img class="gif" src="img/gif/panda.gif" alt="A gif of a panda emoji">
+			<img class="gif" src="img/gif/panda.gif" alt="A gif of a panda emoji" onclick="addOne();deleteClick1()" id="modal1">
 </div>
 <div class="col-sm-6 col-md-3">
-	<img class="gif" src="img/gif/poo.gif" alt="A gif of a poo emoji">
+	<img class="gif" src="img/gif/poo.gif" alt="A gif of a poo emoji" onclick="addOne();deleteClick2()" id="modal2" >
 </div>
 <div class="col-sm-6 col-md-3">
-	<img class="gif" src="img/gif/unicorn.gif" alt="A gif of a unicorn emoji">
+	<img class="gif" src="img/gif/unicorn.gif" alt="A gif of a unicorn emoji" onclick="addOne();deleteClick3()" id="modal3">
 </div>
 <div class="col-sm-6 col-md-3">
-	<img class="gif" src="img/gif/chicken.gif" alt="A gif of a chicken emoji">
+	<img class="gif" src="img/gif/chicken.gif" alt="A gif of a chicken emoji" onclick="addOne();deleteClick4()" id="modal4">
 </div>
 </div>
 </div>

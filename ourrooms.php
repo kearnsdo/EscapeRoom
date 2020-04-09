@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <title>Our Rooms</title>
 <?php include 'includes/head.php'; ?>
 </head>
 <body>

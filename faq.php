@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+ <title>FAQ</title>
 	<?php include 'includes/head.php'; ?>
 	
 	<meta name="description" content="Still not sure of this is the activity for you? On this page you will find the answers to the most common questions.">
