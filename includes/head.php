@@ -6,6 +6,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script> <!--latest version of bootstrap.js-->
 <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script> <!--adds the social media icons-->
 <link href="style.css" rel="stylesheet">
+
 <link rel="icon" href="img/logo.png" type="image/gif" sizes="16x16">
 
 <script src="modal.js"></script>
@@ -16,35 +17,36 @@
 <div id="myModal1" class="modal fade" role="dialog">
   <div class="modal-dialog">
         <div class="modal-content">
-            <div class="modal-header">
-                <img class = "modalIcon" src="img/icon_discount.png" alt="discount riddle icon">
-                <h4 class="modal-title">Riddle</h4>
-                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <div class="modal-header">
+                    <img class = "modalIcon" src="img/icon_discount.png" alt="discount riddle icon">
+                    <h4 class="modal-title">Riddle</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
                 </div>
                 <div class="modal-body">
                     <p> We have a small riddle for you. We are looking for one word which unlocks a 20% discount on your booking. <br>
                        Click the other 3 GIFs, 2 will each give you a clue for the word we are looking for. In the last one, you will discover if you guessed it right!
                        Watch out! You will only be able to see each clue once.
-                       </p?
+                    </p>
                 </div>
-            </div>
-  </div>
+         </div>
+    </div>
 </div>
 
 <div id="myModal2" class="modal fade" role="dialog">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-            <img class = "modalIcon" src="img/icon_glass.png" alt="magnifying glass icon">
-                <h4 class="modal-title">Clue 1</h4>
-                <button type="button" class="close" data-dismiss="modal">&times;</button>
-            </div>
-            <div class="modal-body">
-                 <p>I am not a selfie, but I do show faces.</p>
+                <img class = "modalIcon" src="img/icon_glass.png" alt="magnifying glass icon">
+                    <h4 class="modal-title">Clue 1</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body">
+                     <p>I am not a selfie, but I do show faces.</p>
+                </div>
             </div>
         </div>
     </div>
-</div>
+
 
 <div id="myModal3" class="modal fade" role="dialog">
     <div class="modal-dialog">
