@@ -81,3 +81,16 @@
     </div>
 </div>
 
+<div id="commentModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Thank you! Your comment has been successfully submitted.</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p>If you have a question or experienced a problem with the site we will get back to you as soon as possible.</p>
+            </div>
+        </div>
+    </div>
+</div>

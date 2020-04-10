@@ -53,18 +53,14 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
 	  <div class="second-section">
 	    <div class="filters">
 	      <ul id="filters">
-	        <li class="active" data-filter=".photography">More pictures</li>
-	        <li data-filter=".art">Our Actors</li>
+	        <center> <h2>More pictures</h2></centner>
 	      </ul>
 	    </div>
 	  </div>
 	  <div class="row masonry">
 	    <div class="col-md col-sm-6 col-xs-12 selector col-sm-6 col-xs-12 selector photography">
-
 	      <div class="item">
 	        <img src="img/mentalHospital3.jpg" alt="Images of mental hopsital">
-
-
 	      </div>
 	    </div>
 
@@ -76,26 +72,6 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
       </div>
 	    </div>
 
-	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
-	      <div class="item">
-	        <img src="img/actor1.jpeg" alt="picture of actor 1">
-	       	      </div>
-	    </div>
-	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
-	      <div class="item">
-	        <img src="img/actor2.jpeg" alt="picture of actor 2">
-	      </div>
-	    </div>
-	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
-	      <div class="item">
-	        <img src="img/actor3.jpeg" alt="picture of actor 3">
-	       </div>
-	    </div>
-	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
-	      <div class="item">
-	        <img src="img/actor4.jpeg" alt="picture of actor 4">
-	      </div>
-	    </div>
 
 
 
@@ -153,12 +129,7 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
                             </div>
                             <div class="col-md-12 form-area">
                                 <textarea placeholder="Message" name="message"></textarea>
-                                <input type="submit" onclick="comment()" value="Comment">
-								<script>
-									function comment(){
-										alert("Your comment has been submitted !");
-									}
-								</script>
+                                <input type="button" onclick="comment()" value="Comment">
                             </div>
                  </form>
       </div>

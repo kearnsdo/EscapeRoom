@@ -134,12 +134,8 @@ Wicked Mirrors is primarily a horror riddle game which includes elements of dete
             </div>
                             <div class="col-md-12 form-area">
                                 <textarea placeholder="Message" name="message"></textarea>
-                                <input type="submit" onclick="comment()" value="Comment">
-								<script>
-									function comment(){
-										alert("Your comment has been submitted !");
-									}
-								</script>
+                                <input type="button" onclick="comment()" value="Comment">
+
                             </div>
                  </form>
       </div>

@@ -33,3 +33,7 @@ function deleteClick3() {
 function deleteClick4() {
     document.getElementById('modal4').removeAttribute("onclick");
 }
+
+function comment(){
+    $('#commentModal').modal();
+}
