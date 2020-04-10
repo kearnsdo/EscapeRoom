@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <title>Mental Hospital</title>
 	<?php include 'includes/head.php'; ?>
@@ -60,19 +60,19 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
 	  </div>
 	  <div class="row masonry">
 	    <div class="col-md col-sm-6 col-xs-12 selector col-sm-6 col-xs-12 selector photography">
-        <div class="imagehalf">
+
 	      <div class="item">
 	        <img src="img/mentalHospital2.jpg" alt="Images of mental hopsital">
 
-        </div>
+
 	      </div>
 	    </div>
 
 	    <div class="col-md-6  col-sm-6 col-xs-12 selector photography">
-	      <div class="imagehalf">
+
           <div class="item">
 	        <img src="img/mentalHospital1.png" alt="Images of mental hopsital">
-	       </div>
+
       </div>
 	    </div>
 
@@ -143,13 +143,13 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
       <h5 class="item">Leave a review</h5>
           <form class="row" action="#">
                             <div class="col-md-4 col-sm-4 col-xs-12">
-                                <input placeholder="Name" type="text" name="firstname"> <br>
+                                 <label>Name<input placeholder="Name" type="text" name="firstname"> <br></label>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-12">
-                                <input placeholder="Email" type="text" name="email"> <br>
+                               <label>Email  <input placeholder="Email" type="text" name="email"> <br></label>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-12">
-                                <input placeholder="Subject" type="text" name="subject"> <br>
+                               <label>Subject  <input placeholder="Subject" type="text" name="subject"> <br></label>
                             </div>
                             <div class="col-md-12 form-area">
                                 <textarea placeholder="Message" name="message"></textarea>
