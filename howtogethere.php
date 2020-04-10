@@ -24,9 +24,9 @@
 				<div class="map-container">
 					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2381.9699853459833!2d-6.256760284585479!3d53.34379347997847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e9b2dc78edd%3A0x2700fe0d8c716167!2sTrinity%20College%20Dublin!5e0!3m2!1sen!2sie!4v1583711944926!5m2!1sen!2sie" width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 				</div>
-				<center>
+			
 					<a href="howtogetheretext.php">Click here for screen readers</a>
-				</center>
+
 
 				</div>
 
@@ -37,10 +37,10 @@
 							<h2>Connect</h2>
 						</div>
 				<div class="col-12 social padding">
-					<a href="facebook.com/example/"><i class="fab fa-facebook"></i></a>
-											<a href="facebook.com/example/"><i class="fab fa-instagram"></i></a>
-											<a href="facebook.com/example/"><i class="fab fa-linkedin"></i></a>
-													<a href="facebook.com/example/"><i class="fab fa-tripadvisor"></i></a>
+					<a href="facebook.com/"><i class="fab fa-facebook"></i></a>
+											<a href="instagram.com/"><i class="fab fa-instagram"></i></a>
+											<a href="linkedin.com/"><i class="fab fa-linkedin"></i></a>
+													<a href="tripadvisor.com/"><i class="fab fa-tripadvisor"></i></a>
 					</div>
 				</div>
 				</div>

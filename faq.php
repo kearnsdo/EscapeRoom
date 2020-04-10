@@ -1,14 +1,13 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
  <title>FAQ</title>
 	<?php include 'includes/head.php'; ?>
-	
+
 	<meta name="description" content="Still not sure of this is the activity for you? On this page you will find the answers to the most common questions.">
 	<meta name="keywords" content="FAQ, questions, answers, Meabhrach Escape Rooms, Escape Room, Dublin ">
 	<meta name="author" content="Group 2">
-	
+
 
 	<!-- ion Icons -->
 	<link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
@@ -115,10 +114,10 @@
 
 						</div>
 				<div class="col-12 social padding">
-					<a href="facebook.com/example/"><i class="fab fa-facebook"></i></a>
-											<a href="facebook.com/example/"><i class="fab fa-instagram"></i></a>
-											<a href="facebook.com/example/"><i class="fab fa-linkedin"></i></a>
-													<a href="facebook.com/example/"><i class="fab fa-tripadvisor"></i></a>
+					<a href="facebook.com/"><i class="fab fa-facebook"></i></a>
+											<a href="instagram.com/"><i class="fab fa-instagram"></i></a>
+											<a href="linkedin.com/"><i class="fab fa-linkedin"></i></a>
+													<a href="tripadvisor.com/"><i class="fab fa-tripadvisor"></i></a>
 					</div>
 				</div>
 				</div>

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <title>Booking Page</title>
 <?php include 'includes/head.php'; ?>
   <meta name="description" content="Choose the room you want to escape from, the date and time you want to visit us and book right here on our website!">
   <meta name="keywords" content="calendar, booking, date, time, Meabhrach Escape Rooms, Escape Room, Dublin ">
@@ -28,7 +29,7 @@
 <div class"card">
 	<img class="card-img-top" src="img/mirrors2.jpg" alt="A picture of a bird in front of a mirror">
 	<div class="card-body">
-		<h4 class="card-title">Wicked Mirrors</h4>
+		<h2 class="card-title">Wicked Mirrors</h2>
 
 		<a href="calendar.php" class="btn btn-outline-secondary">Book</a>
 		</div>
@@ -39,7 +40,7 @@
 <div class"card">
 <img class="card-img-top" src="img/mentalHospital2.jpg" alt="A picture of 8 doctors looking down on you while lying on a hopsital bed">
 <div class="card-body">
-<h4 class="card-title">Mental Hospital</h4>
+<h2 class="card-title">Mental Hospital</h2>
 
 <a href="calendar2.php" class="btn btn-outline-secondary">Book</a>
 </div>
@@ -50,7 +51,7 @@
 <div class"card">
 <img class="card-img-top" src="img/whiteRoom2.jpg" alt="A picture of a white tunnel">
 <div class="card-body">
-<h4 class="card-title">White Room</h4>
+<h2 class="card-title">White Room</h2>
 
 <a href="calendar3.php" class="btn btn-outline-secondary">Book</a>
 </div>
