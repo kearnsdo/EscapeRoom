@@ -134,11 +134,5 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
                  </form>
       </div>
     </div>
-	<script src="assets/js/jquery-2.1.4.js"></script>
-	<script src="assets/js/bootstrap.min.js"></script>
-	<script src="assets/js/jquery.slicknav.js"></script>
-	<script src="assets/js/isotope.pkgd.min.js"></script>
-	<script src="assets/js/owl.carousel.js"></script>
-	<script src="assets/js/main.js"></script>
   </body>
 </html>
