@@ -62,7 +62,7 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
 	    <div class="col-md col-sm-6 col-xs-12 selector col-sm-6 col-xs-12 selector photography">
 
 	      <div class="item">
-	        <img src="img/mentalHospital2.jpg" alt="Images of mental hopsital">
+	        <img src="img/mentalHospital3.jpg" alt="Images of mental hopsital">
 
 
 	      </div>
