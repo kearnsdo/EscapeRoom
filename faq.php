@@ -105,7 +105,7 @@
 	<div id="emoji9" class="collapse">
 
 					<p>
-					You can find us at...
+					You can find us at our pages on Facebook, LinkedIn, Instagram or contact us directly via phone or email.
 				</p>
 				<!--- Connect -->
 				<div class="container-fluid padding">
