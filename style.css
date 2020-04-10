@@ -305,6 +305,16 @@ hr.light-100{
   }
 }
 @media (max-width: 576px) {
+  .col-12{
+      display:none;
+  }
+  .video-size{
+    width: 30px;
+  height: 30px;
+  }
+  .iframe-container{
+    display:none;
+  }
   .smaller{
   display:none;
   }

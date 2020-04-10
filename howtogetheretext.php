@@ -14,7 +14,7 @@
 	<div class="container-fluid padding">
 
 			<div class="row welcome text-center">
-		<div class="col-12">
+		<div class="col-13">
 
 <h2>By bus</h2>
 <p>Bus Stop No. 1648: Stoneybatter, Arbour Place & Stop No. 1714: Stoneybatter, Brunswick Street -> served by routes 37, 39, 39a, 70.</p>
