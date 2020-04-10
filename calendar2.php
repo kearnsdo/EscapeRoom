@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<title>Mental Hospital Calendar</title>
 <?php include 'includes/head.php'; ?>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">

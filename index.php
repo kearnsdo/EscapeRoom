@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Home</title>
+    <title>Meabhrach Escape Rooms</title>
 <?php include 'includes/head.php'; ?>
   <meta name="description" content="Looking for a fun activity? Are you adventurous, you have nerves of steel and a knack for solving riddles? Check out our 3 Meabhrach Escape Rooms!">
   <meta name="keywords" content="activity, fun, Meabhrach Escape Rooms, Escape Room, Dublin ">
