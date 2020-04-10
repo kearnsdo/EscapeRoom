@@ -25,7 +25,7 @@
     <div class="descrip">
       <div class="container">
         <h1> About </h1>
-		<center><img src="img/white.png" alt="white"></center>
+		<center><img src="img/icon_actor.png" alt="white"></center>
 		<div class="row">
 			<div class="col-md col-sm-4 col-xs-12">
         <h3>People: 2-5</h3>
