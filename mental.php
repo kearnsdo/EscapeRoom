@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <title>Mental Hospital</title>
 	<?php include 'includes/head.php'; ?>
@@ -72,28 +72,49 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
 	      <div class="imagehalf">
           <div class="item">
 	        <img src="img/mentalHospital1.png" alt="Images of mental hopsital">
-	       </div>
+
+	      </div>
       </div>
 	    </div>
 
 	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
 	      <div class="item">
 	        <img src="img/actor1.jpeg" alt="picture of actor 1">
-	       	      </div>
+	        <div class="overlay">
+	          <div class="overlay-inner">
+	            <h3>Sophie</h3>
+	          </div>
+	        </div>
+	      </div>
 	    </div>
 	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
 	      <div class="item">
 	        <img src="img/actor2.jpeg" alt="picture of actor 2">
+	        <div class="overlay">
+            	<div class="overlay-inner">
+            	    <h3>Donal</h3>
+            	</div>
+            </div>
 	      </div>
 	    </div>
 	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
 	      <div class="item">
 	        <img src="img/actor3.jpeg" alt="picture of actor 3">
-	       </div>
+	        <div class="overlay">
+            	<div class="overlay-inner">
+            	    <h3>Kate</h3>
+            	</div>
+            </div>
+	      </div>
 	    </div>
 	    <div class="col-md-6 col-sm-6 col-xs-12 selector art">
 	      <div class="item">
 	        <img src="img/actor4.jpeg" alt="picture of actor 4">
+	        <div class="overlay">
+            	<div class="overlay-inner">
+            	    <h3>Xin</h3>
+            	</div>
+            </div>
 	      </div>
 	    </div>
 
@@ -143,17 +164,17 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
       <h5 class="item">Leave a review</h5>
           <form class="row" action="#">
                             <div class="col-md-4 col-sm-4 col-xs-12">
-                                <input placeholder="Name" type="text" name="firstname"> <br>
+                                <label>Name<input placeholder="Name" type="text" name="firstname"> <br></label>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-12">
-                                <input placeholder="Email" type="text" name="email"> <br>
+                              <label>Email  <input placeholder="Email" type="text" name="email"> <br></label>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-12">
-                                <input placeholder="Subject" type="text" name="subject"> <br>
+                              <label>Subject  <input placeholder="Subject" type="text" name="subject"> <br></label>
                             </div>
                             <div class="col-md-12 form-area">
                                 <textarea placeholder="Message" name="message"></textarea>
-                                <input type="submit" onclick="comment()" value="Comment">
+                            <input type="submit" onclick="comment()" value="Comment">
 								<script>
 									function comment(){
 										alert("Your comment has been submitted !");

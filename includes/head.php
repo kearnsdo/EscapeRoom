@@ -7,7 +7,6 @@
 <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script> <!--adds the social media icons-->
 <link href="style.css" rel="stylesheet">
 
-<link rel="icon" href="img/logo.png" type="image/gif" sizes="16x16">
 
 <script src="modal.js"></script>
 
@@ -17,47 +16,41 @@
 <div id="myModal1" class="modal fade" role="dialog">
   <div class="modal-dialog">
         <div class="modal-content">
-                <div class="modal-header">
-                    <img class = "modalIcon" src="img/icon_discount.png" alt="discount riddle icon">
-                    <h4 class="modal-title">Riddle</h4>
-                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <div class="modal-header">
+                <img class = "modalIcon" src="img/modalicon.jpg" alt="Modal Icon">
+                <h4 class="modal-title">Game Part 1</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
                 </div>
                 <div class="modal-body">
-                    <p> We have a small riddle for you. We are looking for one word which unlocks a 20% discount on your booking. <br>
-                       Click the other 3 GIFs, 2 will each give you a clue for the word we are looking for. In the last one, you will discover if you guessed it right!
-                       Watch out! You will only be able to see each clue once.
-                    </p>
+                    <p>Congratulation you have found the first out of 4 keys hidden on our website! If you manage to find them all, you will get a discount offer on your next booking. </p>
                 </div>
-         </div>
-    </div>
+            </div>
+  </div>
 </div>
 
 <div id="myModal2" class="modal fade" role="dialog">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <img class = "modalIcon" src="img/icon_glass.png" alt="magnifying glass icon">
-                    <h4 class="modal-title">Clue 1</h4>
-                    <button type="button" class="close" data-dismiss="modal">&times;</button>
-                </div>
-                <div class="modal-body">
-                     <p>I am not a selfie, but I do show faces.</p>
-                </div>
+                <h4 class="modal-title">Game Part 2</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p>Only 2 more to go, keep looking!</p>
             </div>
         </div>
     </div>
-
+</div>
 
 <div id="myModal3" class="modal fade" role="dialog">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-            <img class = "modalIcon" src="img/icon_glass.png" alt="magnifying glass icon">
-                <h4 class="modal-title">Clue 2</h4>
+                <h4 class="modal-title">Game Part 3</h4>
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
             </div>
             <div class="modal-body">
-                <p>Find me in bathrooms and a few other places.</p>
+                <p>Almost there, only one left to get your prize!</p>
             </div>
         </div>
     </div>
@@ -68,16 +61,13 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-            <img class = "modalIcon" src="img/icon_party.png" alt="party icon">
-                <h4 class="modal-title">Congrats!</h4>
+                <h4 class="modal-title">Game Part 4</h4>
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
             </div>
             <div class="modal-body">
-                <p> The word we were looking for is: MIRROR! Did you guess it? <br>
-                    Enter “MIRROR” into the discount code field on the payment page to get a 20% discount.
-                    </p>
+                <p> Nice work, you have found all the keys on our website. <br>
+                    Here is your reward: enter "cabhair liom" on the payment page to get a 20% discount.</p>
             </div>
         </div>
     </div>
 </div>
-
