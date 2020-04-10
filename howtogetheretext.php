@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+			<title>Directions</title>
 		<?php include 'includes/head.php'; ?>
 		<meta name="description" content="Not sure how to get to Meabhrach Escape Rooms? Here you can find directions to get to our location by bus or by Luas">
 		<meta name="keywords" content="public transport, bus, Luas, Meabhrach Escape Rooms, Escape Room, Dublin">
@@ -41,10 +42,10 @@ Once you have past the metal gate, cross the street and take a left. Continue st
 							<h2>Connect</h2>
 						</div>
 				<div class="col-12 social padding">
-					<a href="facebook.com/example/"><i class="fab fa-facebook"></i></a>
-											<a href="facebook.com/example/"><i class="fab fa-instagram"></i></a>
-											<a href="facebook.com/example/"><i class="fab fa-linkedin"></i></a>
-													<a href="facebook.com/example/"><i class="fab fa-tripadvisor"></i></a>
+					<a href="http://facebook.com/"><i class="fab fa-facebook"></i></a>
+											<a href="http://instagram.com//"><i class="fab fa-instagram"></i></a>
+											<a href="https://www.linkedin.com"><i class="fab fa-linkedin"></i></a>
+													<a href="https://www.tripadvisor.ie/"><i class="fab fa-tripadvisor"></i></a>
 					</div>
 				</div>
 				</div>

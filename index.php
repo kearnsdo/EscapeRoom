@@ -23,8 +23,8 @@
 	<div class="carousel-item active">
 <img src="img/house.jpg" alt="Outside view of the building">
 <div class="carousel-caption">
-<h1 class="display-2">Meabhrach Escape Rooms</h1>
-<h3>Scroll to visit our unique rooms</h3>
+  <h1  class="display-2">Meabhrach Rooms</h1>
+  <h3  class="smaller">Scroll to visit our escape rooms</h3>
 <!-- <button type="button" class="btn btn-outline-light btn-lg">VIEW ROOM</button> -->
 <!-- <button type="button" class="btn btn-primary btn-lg">VIEW ROOM</button>  Blue button -->
 <a class="btn btn-outline-light btn-lg" href="ourrooms.php" role="button">VIEW ROOM</a>

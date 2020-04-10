@@ -241,12 +241,18 @@ hr.light-100{
 
 /*---Media Queries --*/
 @media (max-width: 992px) {
+  .smaller{
+  display:none;
+  }
 .social a {
   font-size: 4em;
   padding: 2rem;
 }
   }
 @media (max-width: 768px) {
+  .smaller{
+  display:none;
+  }
   .fa-facebook{
    visibility: hidden;
   }
@@ -299,6 +305,9 @@ hr.light-100{
   }
 }
 @media (max-width: 576px) {
+  .smaller{
+  display:none;
+  }
   .fa-facebook{
    visibility: hidden;
   }
@@ -530,7 +539,7 @@ Label the data
 
  /* Each room section */
  .imagehalf{
-  
+
  }
  .first-content .pic {
      width: 100%;
