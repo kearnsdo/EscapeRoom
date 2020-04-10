@@ -38,8 +38,8 @@
 
 <div class="col-12 social2 padding">
 	<a href="http://facebook.com/"><i class="fab fa-facebook"></i></a>
-							<a href="http://instagram.com/"><i class="fab fa-instagram"></i></a>
-							<a href="https://www.linkedin.com/"><i class="fab fa-linkedin"></i></a>
+							<a href="http://instagram.com//"><i class="fab fa-instagram"></i></a>
+							<a href="https://www.linkedin.com"><i class="fab fa-linkedin"></i></a>
 									<a href="https://www.tripadvisor.ie/"><i class="fab fa-tripadvisor"></i></a>
 	</div>
 </div>

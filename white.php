@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <title>White Room</title>
 	<?php include 'includes/head.php'; ?>
       <meta name="description" content="Everything white. Will you be able to uncover the colours of the White Room?">
       <meta name="keywords" content="activity, fun, Meabhrach Escape Rooms, Escape Room, Dublin, White Room ">
       <meta name="author" content="Group 2">
+
    <link href='https://fonts.googleapis.com/css?family=Quicksand:400,700|Quattrocento+Sans:400,700|Palanquin:400,600|Raleway|Josefin+Sans' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
@@ -106,20 +107,20 @@ The White Room represents everything that is in its name: every single object in
     <div class="contact-content">
       <div class="container">
       <h5 class="item">Leave a review</h5>
-      <form class="row" action="#">
-                        <div class="col-md-4 col-sm-4 col-xs-12">
-                            <label>Name<input placeholder="Name" type="text" name="firstname"> <br></label>
-                        </div>
-                        <div class="col-md-4 col-sm-4 col-xs-12">
-                          <label>Email  <input placeholder="Email" type="text" name="email"> <br></label>
-                        </div>
-                        <div class="col-md-4 col-sm-4 col-xs-12">
-                          <label>Subject  <input placeholder="Subject" type="text" name="subject"> <br></label>
-                        </div>
-                        <div class="col-md-12 form-area">
-                            <textarea placeholder="Message" name="message"></textarea>
-                        <input type="submit" onclick="comment()" value="Comment">
-            <script>
+          <form class="row" action="#">
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <input placeholder="Name" type="text" name="firstname"> <br>
+                            </div>
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <input placeholder="Email" type="text" name="email"> <br>
+                            </div>
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <input placeholder="Subject" type="text" name="subject"> <br>
+                            </div>
+                            <div class="col-md-12 form-area">
+                                <textarea placeholder="Message" name="message"></textarea>
+                                <input type="submit" onclick="comment()" value="Comment">
+								<script>
 									function comment(){
 										alert("Your comment has been submitted!");
 									}
