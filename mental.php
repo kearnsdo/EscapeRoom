@@ -87,7 +87,7 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
         <div class="row">
           <div class="col-md-2">
             <div class="picture">
-              <img src="img/portret22.png" alt="">
+              <img src="img/portret22.png" alt="User icon">
             </div>
           </div>
           <div class="col-md-10">
@@ -101,7 +101,7 @@ The Mental Hospital is a unique experience, merging the best from the escape roo
          <div class="row items4">
           <div class="col-md-2">
             <div class="picture">
-              <img src="img/portreti23.png" alt="">
+              <img src="img/portreti23.png" alt="User icon">
             </div>
           </div>
           <div class="col-md-10">
