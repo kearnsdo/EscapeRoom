@@ -72,7 +72,7 @@ Wicked Mirrors primarily is a horror riddle game which includes elements of dete
 	    </div>
 	    <div class="col-md-6  col-sm-6 col-xs-12 selector photography">
 	      <div class="item">
-	        <img src="img/mirrors2.jpg" alt="Image of a bird in front of a mirror">
+	        <img src="img/mirrors3.jpg" alt="Image of a bird in front of a mirror">
 	        <div class="overlay">
 	          <div class="overlay-inner">
 	            <h3>Exciting</h3>
