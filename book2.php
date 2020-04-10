@@ -10,7 +10,7 @@ if(isset($_POST['submit'])){
     $stmt = $mysqli->prepare("INSERT INTO bookings (name, email, date) VALUES (?,?,?)");
     $stmt->bind_param('sss', $name, $email, $date);
     $stmt->execute();
-     $msg = "<div class='alert alert-success'>Booking Successfull. You should receive an email on payment instructions.</div>";
+     $msg = "<div class='alert alert-success'>Booking Successful. You should receive an email on payment instructions.</div>";
   $stmt->close();
   $mysqli->close();
 }
@@ -24,9 +24,9 @@ if(isset($_POST['submit'])){
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+
   <title></title>
-  
+
   <link rel="stylesheet" href="/css/main.css">
 </head>
 
@@ -50,25 +50,25 @@ if(isset($_POST['submit'])){
             <label for="">Discount</label>
           <input type="text" name="name">
           </div>
-          
+
             <input type="checkbox" id="vehicle1" name="vehicle1">
             <label for="vehicle1"> Adult €25</label><br>
             <input type="checkbox" id="vehicle2" name="vehicle2">
             <label for="vehicle2">Student €20</label><br>
             <input type="checkbox" id="vehicle3" name="vehicle3">
             <label for="vehicle3"> Group (10+) €200</label><br><br>
-          
-          
+
+
           <button class="btn btn-primary" type="submit" name="submit">Submit</button>
              <a class="btn btn-secondary" href="calendar2.php" role="button">Back</a>
         </form>
       </div>
     </div>
   </div>
-  
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-  
+
 </body>
 
 </html>

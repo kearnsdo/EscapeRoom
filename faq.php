@@ -114,10 +114,10 @@
 
 						</div>
 				<div class="col-12 social padding">
-					<a href="facebook.com/"><i class="fab fa-facebook"></i></a>
-											<a href="instagram.com/"><i class="fab fa-instagram"></i></a>
-											<a href="linkedin.com/"><i class="fab fa-linkedin"></i></a>
-													<a href="tripadvisor.com/"><i class="fab fa-tripadvisor"></i></a>
+          <a href="http://facebook.com/"><i class="fab fa-facebook"></i></a>
+        							<a href="http://instagram.com//"><i class="fab fa-instagram"></i></a>
+        							<a href="https://www.linkedin.com"><i class="fab fa-linkedin"></i></a>
+        									<a href="https://www.tripadvisor.ie/"><i class="fab fa-tripadvisor"></i></a>
 					</div>
 				</div>
 				</div>
